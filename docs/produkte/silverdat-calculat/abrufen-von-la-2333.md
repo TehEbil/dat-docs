@@ -1,0 +1,25 @@
+---
+title: "Abrufen von länderspezifischen Versicherungen"
+topic_id: "2333"
+breadcrumb: "SilverDAT Produkte > SilverDAT calculatePro / SilverDAT calculateExpert > Schnittstellenoperationen > VehicleRepairService > Abrufen von länderspezifischen Versicherungen"
+---
+
+# Abrufen von länderspezifischen Versicherungen
+
+Die Funktion getInsurances() liefert eine Liste der Versicherungen mit Versicherungsnummer und Versicherungsname
+zurück.
+
+Parameter
+
+| Name | Datentyp | Mögliche Werte | Beschreibung |
+| --- | --- | --- | --- |
+| locale | Locale, optional |  | [Element locale](../../allgemein/dat-developers-gui/element-locale-1352.md) |
+
+Rückgabe
+
+| Name | Datentyp | Beschreibung |
+| --- | --- | --- |
+| gdvFlag | String | Der Gesamtverband der Deutschen Versicherungswirtschaft (Datenbank der Gemeinschaft der Autoversicherer) |
+| insuranceGroupId | String | Versicherungsgruppen |
+| insuranceName | String | Versicherungsname |
+| insuranceNumber | String | Versicherungsnummer |

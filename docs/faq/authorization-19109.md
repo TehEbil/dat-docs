@@ -8,7 +8,7 @@ breadcrumb: "Häufig gestellte Fragen > authorization failed"
 
 ich erhalte einen Token, aber Fehler "authorization failed"
 
-Bitte prüfen Sie nochmal ihre Zugangsdaten beim Erstellen des Tokens ([generateToken](#showid/14126 "SOAP-Request generateToken")).
+Bitte prüfen Sie nochmal ihre Zugangsdaten beim Erstellen des Tokens ([generateToken](../allgemein/dat-developers-gui/soap-request-g-14126.md)).
 
 Beachten Sie:
 

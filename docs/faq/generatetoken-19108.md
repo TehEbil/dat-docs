@@ -6,7 +6,7 @@ breadcrumb: "Häufig gestellte Fragen > generateToken"
 
 # generateToken
 
-[generateToken](#showid/14126 "SOAP-Request generateToken") - welche Parameter brauche ich
+[generateToken](../allgemein/dat-developers-gui/soap-request-g-14126.md) - welche Parameter brauche ich
 
 Um den Token generieren zu können benötigen Sie folgende Zugangs-Parameter:
 
