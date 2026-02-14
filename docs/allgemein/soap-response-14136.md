@@ -1,0 +1,17 @@
+---
+title: "SOAP-Response generateToken (Beispiel)"
+topic_id: "14136"
+breadcrumb: "Allgemeine Informationen > DAT Developers Guide > Authentifizierung der SilverDAT Webservices > JSON Web Token Authentication (DAT-AuthorizationToken) > SOAP-Request generateToken > SOAP-Response generateToken (Beispiel)"
+---
+
+# SOAP-Response generateToken (Beispiel)
+
+```
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+   <S:Body>
+      <ns3:generateTokenResponse xmlns:ns3="http://sphinx.dat.de/services/Authentication">
+         <token>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJkYXQiLCJpYXQiOjE1Njg3MjE5ODI2NTUsImNsbnQiOiIxMDAwMDAwIiwidXNlciI6ImhvcHB0aG9tIiwiYXBpdCI6IlJTQS1PQUVQLTI1NiIsImFwaXIiOiJhYjZJdHJhaVZoZzF3blVsdEhXWlk3ajJ5Q3R4eTE1VHRzOWhWcEhwbS9XUk1sbEM0cVlSZ1lvM2hBY2pjNWt0YXBEa2h5UGx0R2JLVDNla3NzQ0JMZlAyb1RnUkF3bUp6SjBkMXNTSklQMDN1K0VIV0NGbTcxalNHbWVveGVERDMvMHlNalhESWUyVmEvOVRUd2s2bHpxWFErK01udEYvMkRhZG9HUUY2cnYvK20zdUgrTXBwdGVrQjhjQ1MxNFB1Nk5UTk5VZHlFV1ZNVjNmV1JsRWFlOUJ1NXllcGZ0MDRNa1ptRzZNMnpKVXMvRUhZbHRqc0RTVis3bHNwZ2o1bkFNb0VRLzAybVVsMjg1czE3SUVBcFBIRFJqa0J5ZlJ3a0dwaENGazdQeERLb3pwVHVYZnRsTjUyVmlFVllUd2NSTGVIV1A1SFpvOXZReU5Ed0Q4NC9mZ05IeXJMWEtrb0JKc1BYN0tocWE3eVRzZXEyVTI2bzVlaHJTdUtCQUJaZzVZeFBFcHlpSzFxNmhxSkRZM1dqK3RNYTUxeDYrQ1cxQUxuQmdkM1RwbGk4eW55ZWVSN2RLcDlXb0c2YUFrcFhkQmIrQ0hwSEhtb3NPbWJDUnMvejh3clZwTGw2d3FncTZDb0ZjVFQ3N2k2dDdGQ0paUmt3emdCS0RBZit2ZXJRd2czQmp5NExlZjQwSGttUFpFclQzVExscEQ2NUp3T0J2KzkxaGRVWmtiRm81SDFxSXRBdHk3cmlHSm0rYmZEaDR1MG12OUFVcHNyVXZoNk1xUUh1cXp0cmVaQVBCUzcxM042U21QRlQ1UEtvWnlMREV2Z05yWHlwOTU2ZHdnR3oxcExpcjdITUlQcGllTWdlQ29YL0M0M0RuTHBWNkdZNXJsbDJmb1Zzaz0ifQ.p3StsaQjV75pO_M6c8HJ-ggKidhUA6JJwGYanSiXD3Q</token>
+      </ns3:generateTokenResponse>
+   </S:Body>
+</S:Envelope>
+```

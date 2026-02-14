@@ -1,0 +1,274 @@
+---
+title: "Response getSparePartsDetailsForDPN"
+topic_id: "17170"
+breadcrumb: "SilverDAT Produkte > SilverDAT calculatePro / SilverDAT calculateExpert > Schnittstellenoperationen > VehicleRepairService > Ermittlung der Fahrzeuginformationen, Ersatzteilnummern, Verbauungsbedingungen und/oder Preishistorie > Response getSparePartsDetailsForDPN"
+---
+
+# Response getSparePartsDetailsForDPN
+
+```
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+   <S:Body>
+      <ns4:getSparePartsDetailsForDPNResponse xmlns:ns4="http://sphinx.dat.de/services/VehicleRepairService">
+         <SparePartsDetailsForDPNResponse>
+            <sparePartsResultPerDPN>
+               <pageSize>60</pageSize>
+               <pageNumber>1</pageNumber>
+               <datProcessNumber>44910</datProcessNumber>
+               <vehiclesFound>53</vehiclesFound>
+               <vehiclesReturned>53</vehiclesReturned>
+               <sparePartsInformations>
+                  <sparePartsInformation>
+                     <name>FRONTSCHEIBE</name>
+                     <partNumber>51317070292</partNumber>
+                     <price>354.56</price>
+                     <priceDate>2022-10-01</priceDate>
+                     <orderable>yes</orderable>
+                     <possibleNames>
+                        <identifier>*</identifier>
+                        <name>FRONTSCHEIBE</name>
+                     </possibleNames>
+                     <previousPrices>
+                        <previousPrice>
+                           <price>354.56</price>
+                           <priceDate>2022-09-01</priceDate>
+                        </previousPrice>
+                     </previousPrices>
+                     <repairSet>
+                        <sparePartsInformation>
+                           <name>KLEBEDICHTMASSE SCHEIBE</name>
+                           <partNumber>83192289286</partNumber>
+                           <price>16.81</price>
+                           <priceDate>2022-10-01</priceDate>
+                           <amount>1</amount>
+                           <orderable>yes</orderable>
+                           <possibleNames>
+                              <identifier>*</identifier>
+                              <name>KLEBEDICHTMASSE SCHEIBE</name>
+                           </possibleNames>
+                           <previousPrices>
+                              <previousPrice>
+                                 <price>16.81</price>
+                                 <priceDate>2022-09-01</priceDate>
+                              </previousPrice>
+                           </previousPrices>
+                        </sparePartsInformation>
+                     </repairSet>
+                  </sparePartsInformation>
+                  <sparePartsInformation>
+                     <name>FRONTSCHEIBE</name>
+                     <partNumber>51317070294</partNumber>
+                     <price>354.56</price>
+                     <priceDate>2022-10-01</priceDate>
+                     <orderable>yes</orderable>
+                     <possibleNames>
+                        <identifier>*</identifier>
+                        <name>FRONTSCHEIBE</name>
+                     </possibleNames>
+                     <previousPrices>
+                        <previousPrice>
+                           <price>354.56</price>
+                           <priceDate>2022-09-01</priceDate>
+                        </previousPrice>
+                     </previousPrices>
+                     <repairSet>
+                        <sparePartsInformation>
+                           <name>KLEBEDICHTMASSE SCHEIBE</name>
+                           <partNumber>83192289286</partNumber>
+                           <price>16.81</price>
+                           <priceDate>2022-10-01</priceDate>
+                           <amount>1</amount>
+                           <orderable>yes</orderable>
+                           <possibleNames>
+                              <identifier>*</identifier>
+                              <name>KLEBEDICHTMASSE SCHEIBE</name>
+                           </possibleNames>
+                           <previousPrices>
+                              <previousPrice>
+                                 <price>16.81</price>
+                                 <priceDate>2022-09-01</priceDate>
+                              </previousPrice>
+                           </previousPrices>
+                        </sparePartsInformation>
+                     </repairSet>
+                  </sparePartsInformation>
+                  <sparePartsInformation>
+                     <name>FRONTSCHEIBE</name>
+                     <partNumber>51317070296</partNumber>
+                     <price>473.05</price>
+                     <priceDate>2022-10-01</priceDate>
+                     <orderable>yes</orderable>
+                     <possibleNames>
+                        <identifier>*</identifier>
+                        <name>FRONTSCHEIBE</name>
+                     </possibleNames>
+                     <previousPrices>
+                        <previousPrice>
+                           <price>473.05</price>
+                           <priceDate>2022-09-01</priceDate>
+                        </previousPrice>
+                     </previousPrices>
+                     <repairSet>
+                        <sparePartsInformation>
+                           <name>KLEBEDICHTMASSE SCHEIBE</name>
+                           <partNumber>83192289286</partNumber>
+                           <price>16.81</price>
+                           <priceDate>2022-10-01</priceDate>
+                           <amount>1</amount>
+                           <orderable>yes</orderable>
+                           <possibleNames>
+                              <identifier>*</identifier>
+                              <name>KLEBEDICHTMASSE SCHEIBE</name>
+                           </possibleNames>
+                           <previousPrices>
+                              <previousPrice>
+                                 <price>16.81</price>
+                                 <priceDate>2022-09-01</priceDate>
+                              </previousPrice>
+                           </previousPrices>
+                        </sparePartsInformation>
+                     </repairSet>
+                  </sparePartsInformation>
+                  <sparePartsInformation>
+                     <name>FRONTSCHEIBE</name>
+                     <partNumber>51317070297</partNumber>
+                     <price>514.12</price>
+                     <priceDate>2022-10-01</priceDate>
+                     <orderable>yes</orderable>
+                     <possibleNames>
+                        <identifier>*</identifier>
+                        <name>FRONTSCHEIBE</name>
+                     </possibleNames>
+                     <previousPrices>
+                        <previousPrice>
+                           <price>514.12</price>
+                           <priceDate>2022-09-01</priceDate>
+                        </previousPrice>
+                     </previousPrices>
+                     <repairSet>
+                        <sparePartsInformation>
+                           <name>KLEBEDICHTMASSE SCHEIBE</name>
+                           <partNumber>83192289286</partNumber>
+                           <price>16.81</price>
+                           <priceDate>2022-10-01</priceDate>
+                           <amount>1</amount>
+                           <orderable>yes</orderable>
+                           <possibleNames>
+                              <identifier>*</identifier>
+                              <name>KLEBEDICHTMASSE SCHEIBE</name>
+                           </possibleNames>
+                           <previousPrices>
+                              <previousPrice>
+                                 <price>16.81</price>
+                                 <priceDate>2022-09-01</priceDate>
+                              </previousPrice>
+                           </previousPrices>
+                        </sparePartsInformation>
+                     </repairSet>
+                  </sparePartsInformation>
+                  <sparePartsInformation>
+                     <name>FRONTSCHEIBE</name>
+                     <partNumber>51317070298</partNumber>
+                     <price>662.26</price>
+                     <priceDate>2022-10-01</priceDate>
+                     <orderable>yes</orderable>
+                     <possibleNames>
+                        <identifier>*</identifier>
+                        <name>FRONTSCHEIBE</name>
+                     </possibleNames>
+                     <previousPrices>
+                        <previousPrice>
+                           <price>662.26</price>
+                           <priceDate>2022-09-01</priceDate>
+                        </previousPrice>
+                     </previousPrices>
+                     <repairSet>
+……………………………………………………………………………………………………………………..
+               </sparePartsInformations>
+               <sparePartsVehicles>
+                  <sparePartsVehicle>
+                     <datProcessNumber>44910</datProcessNumber>
+                     <partNumber>51317070292</partNumber>
+                     <vehicleType>1</vehicleType>
+                     <vehicleTypeName>Pkw, SUV, Kleintransporter</vehicleTypeName>
+                     <manufacturer>130</manufacturer>
+                     <manufacturerName>BMW</manufacturerName>
+                     <baseModel>66</baseModel>
+                     <baseModelName>Baureihe 5 Touring (E61)(2004->)</baseModelName>
+                     <constructionTimeFrom>1</constructionTimeFrom>
+                     <constructionTimeTo>9999</constructionTimeTo>
+                     <constructionCondition>99952</constructionCondition>
+                     <excludingCondition>22204/22506/25204/28807</excludingCondition>
+                     <descriptionIdentifier>*</descriptionIdentifier>
+                     <sparePartsSubModels>
+                        <sparePartsSubModel>
+                           <subModel>1</subModel>
+                           <subModelName>520i</subModelName>
+                        </sparePartsSubModel>
+                        <sparePartsSubModel>
+                           <subModel>3</subModel>
+                           <subModelName>523i</subModelName>
+                        </sparePartsSubModel>
+                        <sparePartsSubModel>
+                           <subModel>5</subModel>
+                           <subModelName>525i</subModelName>
+                        </sparePartsSubModel>
+                        <sparePartsSubModel>
+                           <subModel>6</subModel>
+                           <subModelName>525i xDrive</subModelName>
+                        </sparePartsSubModel>
+…………………………………………………………………………………………………………………….
+                     </sparePartsSubModels>
+                  </sparePartsVehicle>
+                  <sparePartsVehicle>
+                     <datProcessNumber>44910</datProcessNumber>
+                     <partNumber>51317070292</partNumber>
+                     <vehicleType>1</vehicleType>
+                     <vehicleTypeName>Pkw, SUV, Kleintransporter</vehicleTypeName>
+                     <manufacturer>130</manufacturer>
+                     <manufacturerName>BMW</manufacturerName>
+                     <baseModel>66</baseModel>
+                     <baseModelName>Baureihe 5 Touring (E61)(2004->)</baseModelName>
+                     <constructionTimeFrom>1</constructionTimeFrom>
+                     <constructionTimeTo>9999</constructionTimeTo>
+                     <constructionCondition>28807</constructionCondition>
+                     <excludingCondition>22204/22506/25204/99952</excludingCondition>
+                     <descriptionIdentifier>*</descriptionIdentifier>
+                     <sparePartsSubModels>
+……………………………………………………………………………………………………………………………………………………………..
+                     </sparePartsSubModels>
+                  </sparePartsVehicle>
+……………………………………………………………………………………………………………………………………………………..
+                                 </sparePartsVehicles>
+               <equipments>
+                  <equipment>
+                     <name>Fahrassistenz-System: Spurwechselassistent</name>
+                     <number>15498</number>
+                  </equipment>
+                  <equipment>
+                     <name>Verglasung Verbundglas (Ausführung: Klimakomfort)</name>
+                     <number>22204</number>
+                  </equipment>
+                  <equipment>
+                     <name>Frontscheibe mit Bandfilter oben</name>
+                     <number>22506</number>
+                  </equipment>
+                  <equipment>
+                     <name>Head-up-Display</name>
+                     <number>25204</number>
+                  </equipment>
+                  <equipment>
+                     <name>Klimaautomatik erweiterter Umfang</name>
+                     <number>28807</number>
+                  </equipment>
+                  <equipment>
+                     <name>Länder-AV China</name>
+                     <number>99952</number>
+                  </equipment>
+               </equipments>
+            </sparePartsResultPerDPN>
+         </SparePartsDetailsForDPNResponse>
+      </ns4:getSparePartsDetailsForDPNResponse>
+   </S:Body>
+</S:Envelope>
+```

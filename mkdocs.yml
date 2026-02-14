@@ -1,0 +1,40 @@
+site_name: SilverDAT Schnittstellen-Kompendium
+site_description: DAT Schnittstellendokumentation
+site_url: https://tehehbil.github.io/dat-docs/
+
+theme:
+  name: material
+  language: de
+  palette:
+    - scheme: default
+      primary: blue
+      accent: amber
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+
+plugins:
+  - search:
+      lang: de
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+extra:
+  generator: false

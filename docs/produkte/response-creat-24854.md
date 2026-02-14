@@ -1,0 +1,9 @@
+---
+title: "Response createValuationN mit zu hoher Laufleistung"
+topic_id: "24854"
+breadcrumb: "SilverDAT Produkte > SilverDAT 3 PRO > Schnittstellenoperationen > Bewertung > Verwalten von Vorgängen > Erstellen einer neuen Bewertung in der Anwendung > Response createValuationN mit zu hoher Laufleistung"
+---
+
+# Response createValuationN mit zu hoher Laufleistung
+
+###### Response createValuationN mit zu hoher Laufleistung Response S:Fault | Parameter | Datentyp | Beschreibung | | --- | --- | --- | | faultcode | String | dat:S:Server | | faultString | String | NOT\_EVALUABLE A valuation is only possible up to a mileage of 1074000 kilometers. | | faultActor | String | de.dat.sphinx.valadv.trading.business.TradingDossierHandler | | detail | | siehe Unterelemente | Unterelemente von detail | Parameter | Datentyp | Beschreibung | | --- | --- | --- | | datMileageCorrMin | Decimal | Laufleistungskorrektur für die minimal bewertbare Laufleistung | | datMileageCorrMax | Decimal | Laufleistungskorrektur für die bewertbare mögliche Laufleistung | | datMileageMin | Integer | minimal bewertbare Laufleistung | | datMileageMax | Integer | maximal bewertbare Laufleistung | ``` <S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">    <S:Body>       <S:Fault>          <faultcode xmlns:dat="http://www.dat.de">dat:Server.Error</faultcode>          <faultstring>NOT_EVALUABLE A valuation is only possible up to a mileage of 1078000 kilometers.</faultstring>          <faultactor>eu.dat.myclaim.soap.v2.ValuationService</faultactor>          <detail>             <datMileageMin>78000</datMileageMin>             <datMileageMax>1078000</datMileageMax>             <datMileageCorrMin>6719.75</datMileageCorrMin>             <datMileageCorrMax>-10499.62</datMileageCorrMax>          </detail>       </S:Fault>    </S:Body> </S:Envelope> ```

@@ -1,0 +1,24 @@
+---
+title: "Mögliche Fehlercodes beim Aufruf der Oberflächen-Schnittstelle"
+topic_id: "2326"
+breadcrumb: "SilverDAT Produkte > SilverDAT 3 valuateExpert > Integration der Oberfläche > Aufruf der Methoden von SilverDAT 3 valuateExpert Oberflächeintegration > Mögliche Fehlercodes beim Aufruf der Oberflächen-Schnittstelle"
+---
+
+# Mögliche Fehlercodes beim Aufruf der Oberflächen-Schnittstelle
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Fehlertyp | Fehlercode | Fehlertext | Beschreibung |
+| Authorization Exception | authorization.login.failed | Signature is not valid | Bitte überprüfen Sie die Kunden-Signatur der Anmeldedaten und versuchen Sie es erneut. |
+| Authorization Exception | authorization.login.failed | interfacePartnerSignature missing | Bitte überprüfen Sie die Schnittstellenpartner-Nummer und deren Signatur. Bitte kontaktieren Sie [interfaces@dat.eu](mailto:interfaces@dat.eu "Mail DAT interfaces") falls weiterhin Probleme bestehen. |
+| Authorization Exception | authorization.login.failed | interfacePartnerNumber or interfacePartnerSignature missing or incorrect | Bitte überprüfen Sie die Schnittstellenpartner-Nummer und deren Signatur. Bitte kontaktieren Sie [interfaces@dat.eu](mailto:interfaces@dat.eu "Mail DAT interfaces") falls weiterhin Probleme bestehen. |
+| Validation Exception | common.error.validation.startPage.invalid | Die angefragte Startseite ist ungültig. | Die vorgegebene Startseite wurde nicht gefunden. Bitte überprüfen Sie Vorgabe für die Startseite und versuchen Sie es erneut. |
+| Validation Exception | common.error.validation.dossierId.notFound | Procedure not be found. | Der angegebene Vorgang wurde nicht gefunden. Bitte überprüfen Sie die angegebene Vorgangsnummer DossierId und versuchen Sie es erneut. |
+| Validation Exception | common.error.validation.dossierId.dossier.combination.invalid | Bitte senden Sie eine Vorgangsnummer oder einen Vorgang | Bitte senden Sie entweder eine Vorgangsnummer DossierId oder einen Vorgang. Bitte korrigieren Sie die Vorgabe und versuchen Sie es erneut. |
+| Validation Exception | common.error.validation.process.workflow.combination.invalid | Ungültige Kombination von Prozess und Ablauf verwendet. Gültige Kombinationen sind: [Prozess, Ablauf] | [Ablauf] | []. | Die angegebene Kombination aus Prozesse und Workflow ist nicht zulässig. Die Berechtigung für Prozesse ist nur dann zulässig ist, wenn auch die Berechtigung für Workflow gegeben ist. Bitte überprüfen Sie diese Vorgaben und versuchen Sie es erneut. |
+| Validation Exception | common.error.validation.processes.pageList.invalid | Wenn Sie das Prozesskennzeichen auf 'true' setzen, dann dürfen Sie keine Seitenliste anfragen. | Bitte beachten Sie, dass über die Seitenliste PageList immer nur ein Prozess eingeschränkt werden kann, deshalb ist diese Option nur zulässig, falls Processes nicht gesetzt ist. Bitte überprüfen Sie diese Vorgaben und versuchen Sie es erneut. |
+| Validation Exception | common.error.validation.startPage.pageList.invalid | Wenn Sie eine Seitenliste schicken, dann muss die Startseite darin enthalten sein. | Bitte beachten Sie bei Verwendung der Seitenliste PageList, dass die Startseite StartPage auch in der Seitenliste enthalten sein muss. Bitte überprüfen Sie diese Vorgaben und versuchen Sie es erneut. |
+| Validation Exception | common.error.validation.dossierId.dossier.combination2.invalid | Bei der Seite 'anyPagename' ist es nicht erlaubt, eine Vorgangsnummer oder einen Vorgang zu verwenden. | Die Vorgabe einer Vorgangsnummer DossierId oder eines Dossiers ist für die Seite <anyPagename> nicht zulässig. Bitte löschen Sie diese Angaben und versuchen Sie es erneut. |
+| Validation Exception | common.error.validation.page.pageList.notAllowed | You are not allowed to view the page 'anyPagename'. Please check system options. | Bitte beachten Sie bei der Verwendung der Seitenliste PageList, dass nur Seiten angegeben werden dürfen, für die der Benutzer berechtigt ist. Bitte überprüfen Sie Vorgabe für die Seitenliste und versuchen Sie es erneut. |
+| Validation Exception | common.error.validation.page.pageList.invalid | Die Seite 'anyPagename' gehört nicht zum Prozess 'anyProcess'. In der Seitenliste dürfen nur Seiten verwendet werden, die zum gleichen Prozess gehören. | Bitte beachten Sie bei der Verwendung der Seitenliste PageList, dass nur Seiten angegeben werden dürfen die zum gleichen Prozess gehören. Bitte überprüfen Sie Vorgabe für die Seitenliste und versuchen Sie es erneut. |
+| Validation Exception | common.error.validation.mileageType.invalid | Parameter mileageType is invalid | Der Wert, der beim Aufruf von setMileageType übergeben wurde ist ungültig. Gültige Werte für setMileageType sind FromTacho, Estimated und Indicated.  Bitte überprüfen Sie die Angabe für die Art des Kilometerstandes und versuchen Sie es erneut. |

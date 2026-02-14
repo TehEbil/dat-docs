@@ -1,0 +1,9 @@
+---
+title: "zusaetzliche moegliche Fehlercodes changeDossierN Bewertung von Elektroautos"
+topic_id: "21870"
+breadcrumb: "SilverDAT Produkte > SilverDAT 3 valuateFinance > Schnittstellenoperationen > Fahrzeugbewertung von Elektroautos > Fahrzeugbewertung von Elektroautos > Aendern eines Vorgangs mit EV-Wertkorrektur > zusaetzliche moegliche Fehlercodes changeDossierN Bewertung von Elektroautos"
+---
+
+# zusaetzliche moegliche Fehlercodes changeDossierN Bewertung von Elektroautos
+
+###### zusaetzliche moegliche Fehlercodes changeDossierN Bewertung von Elektroautos | Rückgabecode | Fehlertext | Beschreibung | | --- | --- | --- | | dat:validation.valuation\_batteryCorr.impossibleForBattery | BatteryCorr darf nur für Fahrzeuge mit fest verbauter Batterie angegeben werden. | Der Parameter BatteryCorr darf nur für elektrische Fahrzeuge mit fest verbauter Batterie angegeben werden. | | dat:validation.valuation\_batteryCorr.impossibleForCountry | BatteryCorr darf nur für das Datenland DE angegeben werden. | Der Parameter BatteryCorr darf nur für Bewertungen für das Datenland Deutschland angegeben werden. | | dat:validation.valuation\_batteryStateOfHealth.impossibleForCountry | BatteryStateOfHealth darf nur für das Datenland DE angegeben werden. | Der Parameter BatteryStateOfHealth darf nur für Bewertungen für das Datenland Deutschland angegeben werden. | | dat:validation.valuation\_batteryCorr.impossibleForFuelMethod | BatteryCorr darf nur für Elektrofahrzeuge angegeben werden. | Der Parameter BatteryCorr darf nur für rein elektrische Fahrzeuge angegeben werden. | | dat:validation.valuation\_batteryStateOfHealth.impossibleForFuelMethod | BatteryStateOfHealth darf nur für Elekrofahrzeuge angegeben werden. | Der Parameter BatteryStateOfHealth darf nur für ein elektrische Fahrzeuge angegeben werden. |

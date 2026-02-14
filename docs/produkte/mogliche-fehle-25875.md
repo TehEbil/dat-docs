@@ -1,0 +1,9 @@
+---
+title: "Mögliche Fehlercodes setValueInfluencingFactors"
+topic_id: "25875"
+breadcrumb: "SilverDAT Produkte > SilverDAT 3 PRO > Schnittstellenoperationen > Bewertung > Freies Aktenzeichen > Verwalten von freien Aktenzeichen > Benutzerdefinierte Handelsspanne anlegen > Mögliche Fehlercodes setValueInfluencingFactors"
+---
+
+# Mögliche Fehlercodes setValueInfluencingFactors
+
+###### Mögliche Fehlercodes setValueInfluencingFactors | Rückgabecode | Fehlertext | Beschreibung | | --- | --- | --- | | dat:validation.dossierId.missing | Vorgangs-ID fehlt. | Der Parameter DossierId wurde nicht angegeben. | | dat:validation.dossierId.notFound | Vorgang nicht gefunden. | Es existiert kein Vorgang mit der angegebenen Vorgangs-ID. | | dat:validation.dossierId.locked | Vorgang ist gesperrt. | Der Vorgang ist momentan durch einen anderen Benutzer gesperrt. | | dat:validation.vehicleType.invalid | Vehicle type invalid. | Der Parameter VehicleType fehlt im Request oder wurde falsch angegeben. Beim Aufruf der Funktion setValueInfluencingFactors für ein freies Aktenzeichen ist der Parameter VehicleType Pflicht. | | dat:validation.ValueInfluencingFactorItem.notFound | Wertbeeinflussender Faktor nicht gefunden. | Der angegebene wertbeeinflussende Faktor wurde nicht gefunden. Bitte überprüfen Sie die angegebene ValueInfluencingFactorItem. | | dat:validation.ValueInfluencingFactorId.notFound | Wertbeeinflussender Faktor nicht gefunden. | Der angegebene wertbeeinflussende Faktor wurde nicht gefunden. Bitte überprüfen Sie die angegebene ValueInfluencingFactorId. | | dat:validation.TonnageClass.notAllowed | Die Vorgabe für das Element Tonnageklasse ist für diese Fahrzeugart nicht zulässig. | Die Angabe des Parameters TonnageClass ist für die angegebene Fahrzeugart nicht zulässig. | | dat:validation.TonnageClass.invalid | Tonnageklasse ungültig. | Der angegebene Wert für TonnageClass ist ungültig. |

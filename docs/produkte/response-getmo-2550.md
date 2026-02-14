@@ -1,0 +1,123 @@
+---
+title: "Response getModelInfoByMfrAndExtPartNo"
+topic_id: "2550"
+breadcrumb: "SilverDAT Produkte > SilverDAT PartsInfo > Schnittstellenoperationen > Rückgabe von Modellinfo über HST und ETN > Response getModelInfoByMfrAndExtPartNo"
+---
+
+# Response getModelInfoByMfrAndExtPartNo
+
+```
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+   <S:Header>
+      <seam:conversationId xmlns:seam="http://www.jboss.org/seam/webservice">15</seam:conversationId>
+   </S:Header>
+   <S:Body>
+      <ns2:getModelInfoByMfrAndExtPartNoResponse xmlns:ns2="http://sphinx.dat.de/services/SpareParts" xmlns:ns3="http://www.dat.de/vxs">
+         <result>
+            <ns3:Dossiers source="SD3">
+               <ns3:Dossier>
+                  <ns3:Country>DE</ns3:Country>
+                  <ns3:Language>de</ns3:Language>
+                  <ns3:Vehicle>
+                     <ns3:VehicleType>1</ns3:VehicleType>
+                     <ns3:Manufacturer>860</ns3:Manufacturer>
+                     <ns3:BaseModel>7</ns3:BaseModel>
+                     <ns3:SubModel>3</ns3:SubModel>
+                  </ns3:Vehicle>
+               </ns3:Dossier>
+               <ns3:Dossier>
+                  <ns3:Country>DE</ns3:Country>
+                  <ns3:Language>de</ns3:Language>
+                  <ns3:Vehicle>
+                     <ns3:VehicleType>1</ns3:VehicleType>
+                     <ns3:Manufacturer>860</ns3:Manufacturer>
+                     <ns3:BaseModel>7</ns3:BaseModel>
+                     <ns3:SubModel>4</ns3:SubModel>
+                  </ns3:Vehicle>
+               </ns3:Dossier>
+               <ns3:Dossier>
+                  <ns3:Country>DE</ns3:Country>
+                  <ns3:Language>de</ns3:Language>
+                  <ns3:Vehicle>
+                     <ns3:VehicleType>1</ns3:VehicleType>
+                     <ns3:Manufacturer>860</ns3:Manufacturer>
+                     <ns3:BaseModel>7</ns3:BaseModel>
+                     <ns3:SubModel>1</ns3:SubModel>
+                  </ns3:Vehicle>
+               </ns3:Dossier>
+               <ns3:Dossier>
+                  <ns3:Country>DE</ns3:Country>
+                  <ns3:Language>de</ns3:Language>
+                  <ns3:Vehicle>
+                     <ns3:VehicleType>1</ns3:VehicleType>
+                     <ns3:Manufacturer>860</ns3:Manufacturer>
+                     <ns3:BaseModel>7</ns3:BaseModel>
+                     <ns3:SubModel>2</ns3:SubModel>
+                  </ns3:Vehicle>
+               </ns3:Dossier>
+               <ns3:Dossier>
+                  <ns3:Country>DE</ns3:Country>
+                  <ns3:Language>de</ns3:Language>
+                  <ns3:Vehicle>
+                     <ns3:VehicleType>1</ns3:VehicleType>
+                     <ns3:Manufacturer>860</ns3:Manufacturer>
+                     <ns3:BaseModel>7</ns3:BaseModel>
+                     <ns3:SubModel>7</ns3:SubModel>
+                  </ns3:Vehicle>
+               </ns3:Dossier>
+               <ns3:Dossier>
+                  <ns3:Country>DE</ns3:Country>
+                  <ns3:Language>de</ns3:Language>
+                  <ns3:Vehicle>
+                     <ns3:VehicleType>1</ns3:VehicleType>
+                     <ns3:Manufacturer>860</ns3:Manufacturer>
+                     <ns3:BaseModel>7</ns3:BaseModel>
+                     <ns3:SubModel>8</ns3:SubModel>
+                  </ns3:Vehicle>
+               </ns3:Dossier>
+               <ns3:Dossier>
+                  <ns3:Country>DE</ns3:Country>
+                  <ns3:Language>de</ns3:Language>
+                  <ns3:Vehicle>
+                     <ns3:VehicleType>1</ns3:VehicleType>
+                     <ns3:Manufacturer>860</ns3:Manufacturer>
+                     <ns3:BaseModel>7</ns3:BaseModel>
+                     <ns3:SubModel>5</ns3:SubModel>
+                  </ns3:Vehicle>
+               </ns3:Dossier>
+               <ns3:Dossier>
+                  <ns3:Country>DE</ns3:Country>
+                  <ns3:Language>de</ns3:Language>
+                  <ns3:Vehicle>
+                     <ns3:VehicleType>1</ns3:VehicleType>
+                     <ns3:Manufacturer>860</ns3:Manufacturer>
+                     <ns3:BaseModel>7</ns3:BaseModel>
+                     <ns3:SubModel>6</ns3:SubModel>
+                  </ns3:Vehicle>
+               </ns3:Dossier>
+               <ns3:Dossier>
+                  <ns3:Country>DE</ns3:Country>
+                  <ns3:Language>de</ns3:Language>
+                  <ns3:Vehicle>
+                     <ns3:VehicleType>1</ns3:VehicleType>
+                     <ns3:Manufacturer>860</ns3:Manufacturer>
+                     <ns3:BaseModel>7</ns3:BaseModel>
+                     <ns3:SubModel>12</ns3:SubModel>
+                  </ns3:Vehicle>
+               </ns3:Dossier>
+               <ns3:Dossier>
+                  <ns3:Country>DE</ns3:Country>
+                  <ns3:Language>de</ns3:Language>
+                  <ns3:Vehicle>
+                     <ns3:VehicleType>1</ns3:VehicleType>
+                     <ns3:Manufacturer>860</ns3:Manufacturer>
+                     <ns3:BaseModel>7</ns3:BaseModel>
+                     <ns3:SubModel>9</ns3:SubModel>
+                  </ns3:Vehicle>
+               </ns3:Dossier>
+            </ns3:Dossiers>
+         </result>
+      </ns2:getModelInfoByMfrAndExtPartNoResponse>
+   </S:Body>
+</S:Envelope>
+```
