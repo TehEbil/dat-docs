@@ -7,7 +7,7 @@ breadcrumb: "SilverDAT Produkte > SilverDAT 3 PRO > Schnittstellenoperationen > 
 # Ansprechpartner holen
 
 Mit der Funktion getPossibleContactPersons holen Sie alle Ansprechpartner, die in den Stammdaten angelegt wurden. Die Ansprechpartner
-benötigen Sie für die Parameter SellerId und BuyerId der Funktionen setPurchaseData, setAdmissionData und setSalesData. Im Response von [getPossibleContactPersons](#expandblock-12329-d2e727690) erhalten Sie die zum Ansprechpartner zugehörige Id, die Sie für die Parameter SellerId und BuyerId der Funktionen setPurchaseData, setAdmissionData und setSalesData benötigen.
+benötigen Sie für die Parameter SellerId und BuyerId der Funktionen setPurchaseData, setAdmissionData und setSalesData. Im Response von getPossibleContactPersons erhalten Sie die zum Ansprechpartner zugehörige Id, die Sie für die Parameter SellerId und BuyerId der Funktionen setPurchaseData, setAdmissionData und setSalesData benötigen.
 
 ```
 <S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
@@ -27,7 +27,7 @@ benötigen Sie für die Parameter SellerId und BuyerId der Funktionen setPurchas
 
 Hier finden Sie die Beschreibung der Funktion zum [Auflisten von Ansprechpartnern](../silverdat3-myclaim/auflisten-von-9171.md)
 
-Ein Beispiel finden Sie unter folgenden Link: [getPossibleContactPersons](#expandblock-12329-d2e727722)
+Ein Beispiel finden Sie unter folgenden Link: getPossibleContactPersons
 
 ```
 <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:myc="http://www.dat.eu/myClaim/soap/MyClaimExternalService">

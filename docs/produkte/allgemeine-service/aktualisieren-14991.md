@@ -24,7 +24,7 @@ Arbeitsweise
 2. Falls der Vorgang gefunden wurde, wird er nachbewertet. Wenn es sich um einen Vorgang
    vom Typ: historische Bewertung handelt, wird eine Stichtagsbewertung durchgeführt.
 3. Die Vorgangsdaten werden als VXS Datenstruktur zurückgegeben.
-4. Die Datenausgabemenge wird durch den Parameter [Coverage](#expandblock-14991-d2e410491) begrenzt.
+4. Die Datenausgabemenge wird durch den Parameter Coverage begrenzt.
 
    Mit dem Parameter Coverage steuern Sie den Datenumfang der zurückgegeben werden soll.
 
@@ -42,7 +42,7 @@ Arbeitsweise
 
 Eingabedaten
 
-Es werden nur die Parameter DossierId und [Coverage](#expandblock-14991-d2e410502) unterstützt.
+Es werden nur die Parameter DossierId und Coverage unterstützt.
 
 Mit dem Parameter Coverage steuern Sie den Datenumfang der zurückgegeben werden soll.
 

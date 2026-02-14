@@ -35,7 +35,7 @@ Kurzbeschreibung der Arbeitsweise
 4. Das Fahrzeug wird bewertet und der Vorgang wird gespeichert, sofern dies nicht mittels
    des Speicherkennzeichens verhindert wird.
 5. Die Vorgangsdaten werden als VXS Datenstruktur zurückgegeben.
-6. Die Datenausgabemenge wird durch den Parameter [Coverage](#expandblock-14999-d2e411108) begrenzt.
+6. Die Datenausgabemenge wird durch den Parameter Coverage begrenzt.
 
    Mit dem Parameter Coverage steuern Sie den Datenumfang der zurückgegeben werden soll.
 

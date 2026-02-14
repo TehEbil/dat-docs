@@ -6,10 +6,10 @@ title: "Technische Informationen"
 
 ## Bereiche
 
-- [ausgabe-nr-92-augu](ausgabe-nr-92-augu/) (14 Topics)
-- [ausgabe-nr-93-sept](ausgabe-nr-93-sept/) (16 Topics)
-- [ausgabe-nr-94-deze](ausgabe-nr-94-deze/) (20 Topics)
-- [ausgabe-nr-95-febr](ausgabe-nr-95-febr/) (26 Topics)
+- [ausgabe-nr-92-augu](ausgabe-nr-92-augu/index.md) (14 Topics)
+- [ausgabe-nr-93-sept](ausgabe-nr-93-sept/index.md) (16 Topics)
+- [ausgabe-nr-94-deze](ausgabe-nr-94-deze/index.md) (20 Topics)
+- [ausgabe-nr-95-febr](ausgabe-nr-95-febr/index.md) (26 Topics)
 
 ## Topics
 

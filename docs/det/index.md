@@ -6,7 +6,7 @@ title: "Data Entry Tool (DET) - Schnittstelle zum Datenabruf"
 
 ## Bereiche
 
-- [data-entry-tool-de](data-entry-tool-de/) (90 Topics)
+- [data-entry-tool-de](data-entry-tool-de/index.md) (90 Topics)
 
 ## Topics
 

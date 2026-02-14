@@ -6,7 +6,7 @@ title: "Datenlieferungen"
 
 ## Bereiche
 
-- [satzbeschreibung-d](satzbeschreibung-d/) (40 Topics)
+- [satzbeschreibung-d](satzbeschreibung-d/index.md) (40 Topics)
 
 ## Topics
 

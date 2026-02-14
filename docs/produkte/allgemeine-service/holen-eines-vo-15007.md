@@ -20,7 +20,7 @@ Arbeitsweise
 
 1. Der betroffene Vorgang wird mittels der übergebenen DossierId gesucht.
 2. Die Vorgangsdaten werden als VXS Datenstruktur zurückgegeben.
-3. Die Datenausgabemenge wird durch den Parameter [Coverage](#expandblock-15007-d2e411815) begrenzt.
+3. Die Datenausgabemenge wird durch den Parameter Coverage begrenzt.
 
    Mit dem Parameter Coverage steuern Sie den Datenumfang der zurückgegeben werden soll.
 

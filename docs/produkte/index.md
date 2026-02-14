@@ -6,15 +6,15 @@ title: "SilverDAT Produkte"
 
 ## Bereiche
 
-- [allgemeine-service](allgemeine-service/) (86 Topics)
-- [autoglas-plus-silv](autoglas-plus-silv/) (42 Topics)
-- [dat-uropa-code-fah](dat-uropa-code-fah/) (319 Topics)
-- [silverdat-3-pro](silverdat-3-pro/) (213 Topics)
-- [silverdat-3-valuat](silverdat-3-valuat/) (196 Topics)
-- [silverdat-calculat](silverdat-calculat/) (186 Topics)
-- [silverdat-mietwage](silverdat-mietwage/) (57 Topics)
-- [silverdat-partsinf](silverdat-partsinf/) (24 Topics)
-- [silverdat3-myclaim](silverdat3-myclaim/) (64 Topics)
+- [allgemeine-service](allgemeine-service/index.md) (86 Topics)
+- [autoglas-plus-silv](autoglas-plus-silv/index.md) (42 Topics)
+- [dat-uropa-code-fah](dat-uropa-code-fah/index.md) (319 Topics)
+- [silverdat-3-pro](silverdat-3-pro/index.md) (213 Topics)
+- [silverdat-3-valuat](silverdat-3-valuat/index.md) (196 Topics)
+- [silverdat-calculat](silverdat-calculat/index.md) (188 Topics)
+- [silverdat-mietwage](silverdat-mietwage/index.md) (57 Topics)
+- [silverdat-partsinf](silverdat-partsinf/index.md) (24 Topics)
+- [silverdat3-myclaim](silverdat3-myclaim/index.md) (64 Topics)
 
 ## Topics
 

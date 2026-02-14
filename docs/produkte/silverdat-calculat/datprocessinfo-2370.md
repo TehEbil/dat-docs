@@ -27,7 +27,7 @@ im folgenden näher beschrieben. Ist keine oder eine ungültige Methode definier
 auf "GRAPHICAL" zurückgegriffen. Insbesondere die Bedeutung der Reparatur Codes unterscheidet sich
 in Kombination mit der Methode.
 
-- [GRAPHICAL](#expandblock-2370-d2e76271)
+- GRAPHICAL
 
   Hierüber ist die graphische Teileauswahl nachgebildet.
 
@@ -104,7 +104,7 @@ in Kombination mit der Methode.
   | length | E, I, L, M, / | Die Länge des Ersatzteils bzw. des zu bearbeitenden Teils | Decimal |
   | width | E, I, L, M, / | Die Breite des Ersatzteils bzw. des zu bearbeitenden Teils. Zierleisten oder ähnliches die in Laufenden Metern abgerechnet werden, verfügen nur über eine Länge und keine Breite. | Decimal |
   | unit | E, I, L, M, / | Einheit, z.B. QM oder LFM ergibt sich aus der Fläche bzw der Länge des Bauteils. | String |
-- [MAINTENANCE](#expandblock-2370-d2e76276)
+- MAINTENANCE
 
   Definiert Materialkosten bei der Wartungskalkulation. Die Wartungskalkulation ist
   durch das type Attribut verfeinert. Es gibt die folgenden Typen:
@@ -145,7 +145,7 @@ in Kombination mit der Methode.
   </datProcessInfo>
   ```
 - [DENTS](additional-ver-2377.md)
-- [MANUAL](#expandblock-2370-d2e76286)
+- MANUAL
 
   |  |  |  |
   | --- | --- | --- |
@@ -159,7 +159,7 @@ in Kombination mit der Methode.
   | WorkPositionNumber |  |  |
   | optimization |  |  |
   | preDamage | Teil hat einen Vorschaden. | Boolean [true | false] |
-- [ADDITIONAL](#expandblock-2370-d2e76291)
+- ADDITIONAL
 
   |  |  |  |
   | --- | --- | --- |

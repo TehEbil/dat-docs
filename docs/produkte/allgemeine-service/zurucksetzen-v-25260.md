@@ -17,7 +17,7 @@ Arbeitsweise
    1. Alle Benutzerangaben unter TechInfo
    2. Alle Benutzerangaben unter Engine
    3. Alle Benutzerangaben unter TechInfoWltp
-3. Die Vorgangsdaten werden als VXS Datenstruktur zurückgegeben. Die Datenausgabemenge wird durch den Parameter [Coverage](#expandblock-25260-d2e534232) begrenzt.
+3. Die Vorgangsdaten werden als VXS Datenstruktur zurückgegeben. Die Datenausgabemenge wird durch den Parameter Coverage begrenzt.
 
    Mit dem Parameter Coverage steuern Sie den Datenumfang der zurückgegeben werden soll.
 

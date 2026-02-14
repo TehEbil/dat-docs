@@ -4,11 +4,11 @@ title: SilverDAT Schnittstellen-Kompendium
 
 # SilverDAT Schnittstellen-Kompendium
 
-- [Allgemeine Informationen](allgemein/)
-- [Technische Informationen](techinfo/)
-- [SilverDAT Produkte](produkte/)
-- [Telematikdaten (Auto API)](autoapi/)
-- [Data Entry Tool (DET) - Schnittstelle zum Datenabruf](det/)
-- [Datenlieferungen](lieferungen/)
-- [Datenaustauschformat VXS](vxs/)
-- [Häufig gestellte Fragen](faq/)
+- [Allgemeine Informationen](allgemein/index.md)
+- [Technische Informationen](techinfo/index.md)
+- [SilverDAT Produkte](produkte/index.md)
+- [Telematikdaten (Auto API)](autoapi/index.md)
+- [Data Entry Tool (DET) - Schnittstelle zum Datenabruf](det/index.md)
+- [Datenlieferungen](lieferungen/index.md)
+- [Datenaustauschformat VXS](vxs/index.md)
+- [Häufig gestellte Fragen](faq/index.md)

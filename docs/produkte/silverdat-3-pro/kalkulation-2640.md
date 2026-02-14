@@ -22,7 +22,7 @@ Die Soap Schnittstelle der SilverDAT 3 PRO bietet zusätzlich die Funktionen des
 | [getContractList](../silverdat-calculat/request-getdvn-2417.md) | nicht vorhanden |  |  |
 | [getContractPriceGenerations](../silverdat-calculat/abruf-aller-vo-2343.md) | [getContractPriceGenerations](abruf-aller-vo-18651.md) | [VehicleRepairService](../silverdat-calculat/vehiclerepairs-2413.md) |  |
 | [getDVNEquipments](../silverdat-calculat/abruf-von-auss-2363.md) | [getDVNEquipments](abruf-von-auss-18654.md) | [VehicleRepairService](../silverdat-calculat/vehiclerepairs-2413.md) |  |
-| getAdditionalItems | getAdditionalItems | [VehicleRepairService](../silverdat-calculat/vehiclerepairs-2413.md) |  |
+| [getAdditionalItems](../silverdat-calculat/abrufen-der-zu-22521.md) | getAdditionalItems | [VehicleRepairService](../silverdat-calculat/vehiclerepairs-2413.md) |  |
 | [getFillingQuantities](../silverdat-calculat/abrufen-der-fu-22892.md) | [getFillingQuantities](abrufen-der-fu-22898.md) | [VehicleRepairService](../silverdat-calculat/vehiclerepairs-2413.md) |  |
 | [getInsurances](../silverdat-calculat/abrufen-von-la-2333.md) | [getInsurances](abrufen-von-la-18657.md) | [VehicleRepairService](../silverdat-calculat/vehiclerepairs-2413.md) |  |
 | [getLacquerTypeKeys](../silverdat-calculat/abrufen-von-la-2345.md) | [getLacquerTypeKeys](abrufen-von-la-18660.md) | [VehicleRepairService](../silverdat-calculat/vehiclerepairs-2413.md) |  |

@@ -6,9 +6,9 @@ title: "Datenaustauschformat VXS"
 
 ## Bereiche
 
-- [aktenzeichenvorgan](aktenzeichenvorgan/) (163 Topics)
-- [genereller-aufbau](genereller-aufbau/) (3 Topics)
-- [wertelisten](wertelisten/) (25 Topics)
+- [aktenzeichenvorgan](aktenzeichenvorgan/index.md) (163 Topics)
+- [genereller-aufbau](genereller-aufbau/index.md) (3 Topics)
+- [wertelisten](wertelisten/index.md) (25 Topics)
 
 ## Topics
 

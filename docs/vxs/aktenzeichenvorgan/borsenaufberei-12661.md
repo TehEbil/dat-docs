@@ -39,7 +39,7 @@ Element vxs:MarketplacePreparation
 | MPConfigIntroText | String | Einleitungstext Börsenkonfiguration |  |
 | MPConfigFinalText | String | Schlusstext Börsenkonfiguration |  |
 | NonSmokerCarFlag² | Boolean | Nichtraucherfahrzeug | true, false |
-| MarketplaceProductionCountryVersion | String | Setzen der [Landesversion](#expandblock-12661-d2e733583) des Fahrzeugs  Mit dem Parameter MarketplaceProductionCountryVersion kann die Länderversion des Fahrzeugs bestimmt werden.    |  | | --- | | Wert | | Deutsche Ausführung | | EU-Ausführung | | AT | | IT | | String |
+| MarketplaceProductionCountryVersion | String | Setzen der Landesversion des Fahrzeugs  Mit dem Parameter MarketplaceProductionCountryVersion kann die Länderversion des Fahrzeugs bestimmt werden.    |  | | --- | | Wert | | Deutsche Ausführung | | EU-Ausführung | | AT | | IT | | String |
 | PeriodOfDelivery² | String | Auslieferungszeitraum | String |
 | [PeriodOfDeliverySpecificList²](periodofdelive-25795.md) | List | Auslieferungszeitraum, börsenspezifisch festgelegt |  |
 | PlannedDeliveryDateCustomer² | Date | Liefer-/Verfügbarkeitsdatum | YYYY-MM-DD |

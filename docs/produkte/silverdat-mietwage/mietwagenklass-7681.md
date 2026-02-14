@@ -14,6 +14,6 @@ Parameter
 | Name | Datentyp | Beschreibung | Schreibweise | Pflicht |
 | --- | --- | --- | --- | --- |
 | VIN | String | Fahrzeug-Identifizierungsnummer | 17stellig, alphanumerisch | X |
-| [firstRegistration](#expandblock-7681-d2e392182)\*  Die Differenz "Jahr der Erstzulassung" zur möglichen Bauzeit des Marktindex darf nicht größer als 1 Jahr sein. In der Fahrzeugbewertung kann sonst kein Wert ermittelt werden. | Date | Erstzulassungsdatum | JJJJ-MM-DD  weitere Infos siehe Popup-Fenster | X |
+| firstRegistration\*  Die Differenz "Jahr der Erstzulassung" zur möglichen Bauzeit des Marktindex darf nicht größer als 1 Jahr sein. In der Fahrzeugbewertung kann sonst kein Wert ermittelt werden. | Date | Erstzulassungsdatum | JJJJ-MM-DD  weitere Infos siehe Popup-Fenster | X |
 
 \*weitere Infos siehe Popup-Fenster

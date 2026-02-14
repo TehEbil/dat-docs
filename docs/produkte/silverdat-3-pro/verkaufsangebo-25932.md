@@ -21,7 +21,7 @@ Parameter SalesOffer
 | --- | --- | --- | --- | --- |
 | ResubmissionDate | Date | Wiedervorlagedatum | Format[YYYY-MM-DD] |  |
 | OfferDate | Date | Angebotsdatum | Format[YYYY-MM-DD] | X |
-| OfferedBy | Long | ID des Verkäufers (erhält man durch die Methode [getPossibleContactPersons](#expandblock-25932-d2e964219) uner dem Parameter id)  ``` <S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">    <S:Body>       <ns3:getPossibleContactPersonsResponse xmlns:ns3="http://www.dat.eu/myClaim/soap/v2/MyClaimExternalService">          <PossibleContactPersons>             <firstName>Max</firstName>             <id>2781</id>             <name>34, Mustermann</name>             <salutation>titleMr</salutation>             <surname>34</surname>          </PossibleContactPersons>       </ns3:getPossibleContactPersonsResponse>    </S:Body> </S:Envelope> ``` |  |  |
+| OfferedBy | Long | ID des Verkäufers (erhält man durch die Methode getPossibleContactPersons uner dem Parameter id)  ``` <S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">    <S:Body>       <ns3:getPossibleContactPersonsResponse xmlns:ns3="http://www.dat.eu/myClaim/soap/v2/MyClaimExternalService">          <PossibleContactPersons>             <firstName>Max</firstName>             <id>2781</id>             <name>34, Mustermann</name>             <salutation>titleMr</salutation>             <surname>34</surname>          </PossibleContactPersons>       </ns3:getPossibleContactPersonsResponse>    </S:Body> </S:Envelope> ``` |  |  |
 | Titles | String | Anrede |  |  |
 | Comments | String | Bemerkung |  |  |
 | SalesPriceNet | Decimal | Verkaufspreis (Netto) |  | bedingt |

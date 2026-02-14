@@ -20,7 +20,7 @@ Der Service stellt die folgenden Funktionen zur Verfügung:
 - [getContractList()](request-getdvn-2417.md)
 - [getContractPriceGenerations()](abruf-aller-vo-2343.md)
 - [getDVNEquipments()](abruf-von-auss-2363.md)
-- getAdditionalItems()
+- [getAdditionalItems()](abrufen-der-zu-22521.md)
 - [getFillingQuantities()](abrufen-der-fu-22892.md)
 - [getInsurances()](abrufen-von-la-2333.md)
 - [getLacquerTypeKeys()](abrufen-von-la-2345.md)

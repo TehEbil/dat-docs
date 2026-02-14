@@ -29,7 +29,7 @@ Arbeitsweise
    4. Pauschaler Korrekturfaktor
    5. Beschreibende Benutzer-Fahrzeugdaten (zum Beispiel: Baujahr, Benennungen von Aufbauten)
 3. Der Vorgang wird nachbewertet. Wenn es sich um einen Vorgang vom Vorgangstyp: historische Bewertung handelt, wird eine Stichtagsbewertung durchgeführt.
-4. Die Vorgangsdaten werden als VXS Datenstruktur zurückgegeben. Die Datenausgabemenge wird durch den Parameter [Coverage](#expandblock-15072-d2e431692) begrenzt.
+4. Die Vorgangsdaten werden als VXS Datenstruktur zurückgegeben. Die Datenausgabemenge wird durch den Parameter Coverage begrenzt.
 
    Mit dem Parameter Coverage steuern Sie den Datenumfang der zurückgegeben werden soll.
 

@@ -19,7 +19,7 @@ Maske Ankauf, Zugang und Verkauf in SilverDAT 3 Pro. Diese Funktionen finden Sie
 
 Status umbuchen
 
-Mit der Methode [changeContractStatus](#expandblock-12132-d2e717069) ändern Sie den Status des Vorgangs, indem Sie den Parameter StatusType entsprechend setzen. Hierbei ist es wichtig die Reihenfolge einzuhalten, um zum Status
+Mit der Methode changeContractStatus ändern Sie den Status des Vorgangs, indem Sie den Parameter StatusType entsprechend setzen. Hierbei ist es wichtig die Reihenfolge einzuhalten, um zum Status
 "Verkauft" zu gelangen.
 
 Sie ändern den Status eines Vorgangs mit der Funktion changeContractStatus. Bitte beachten Sie, dass diese Funktion Bestandteil des Service MyClaimExternalService ist (siehe unten). Um den Status zu wechseln, müssen sie den Parameter StatusType setzen.
@@ -64,7 +64,7 @@ erfolgt mit der Funktion getPossibleContactPersons .
 
 4. Bitte setzen Sie mit der Funktion setPurchaseData die Ankaufsdaten.
 
-5. Mit der Methode [changeContractStatus](#expandblock-12132-d2e717195) den Parameter StatusType: Disponiert setzen, somit wird der Status Disponiert für das Dossier gesetzt.
+5. Mit der Methode changeContractStatus den Parameter StatusType: Disponiert setzen, somit wird der Status Disponiert für das Dossier gesetzt.
 
 Sie ändern den Status eines Vorgangs mit der Funktion changeContractStatus. Bitte beachten Sie, dass diese Funktion Bestandteil des Service MyClaimExternalService ist (siehe unten). Um den Status zu wechseln, müssen sie den Parameter StatusType setzen.
 
@@ -91,7 +91,7 @@ https://www.dat.de/myClaim/soap/v2/MyClaimExternalService
 
 6. Bitte setzen Sie mit der Funktion setAdmissionData die Zugangsdaten.
 
-7.Mit der Methode [changeContractStatus](#expandblock-12132-d2e717211) den Parameter StatusType: Bestand setzen, somit wird der Status Bestand für das Dossier gesetzt.
+7.Mit der Methode changeContractStatus den Parameter StatusType: Bestand setzen, somit wird der Status Bestand für das Dossier gesetzt.
 
 Sie ändern den Status eines Vorgangs mit der Funktion changeContractStatus. Bitte beachten Sie, dass diese Funktion Bestandteil des Service MyClaimExternalService ist (siehe unten). Um den Status zu wechseln, müssen sie den Parameter StatusType setzen.
 
@@ -118,7 +118,7 @@ https://www.dat.de/myClaim/soap/v2/MyClaimExternalService
 
 8. Bitte setzen Sie mit der Funktion setSalesData die Verkaufsdaten.
 
-9. Mit der Methode [changeContractStatus](#expandblock-12132-d2e717227) den Parameter StatusType: Verkauft setzen, somit wird der Status Verkauft für das Dossier gesetzt.
+9. Mit der Methode changeContractStatus den Parameter StatusType: Verkauft setzen, somit wird der Status Verkauft für das Dossier gesetzt.
 
 Sie ändern den Status eines Vorgangs mit der Funktion changeContractStatus. Bitte beachten Sie, dass diese Funktion Bestandteil des Service MyClaimExternalService ist (siehe unten). Um den Status zu wechseln, müssen sie den Parameter StatusType setzen.
 
@@ -143,7 +143,7 @@ WSDL
 
 https://www.dat.de/myClaim/soap/v2/MyClaimExternalService
 
-optional: 10.Mit der Methode [changeContractStatus](#expandblock-12132-d2e717238) den Parameter StatusType: opened setzen, somit wird der Status Erfasst für das Dossier gesetzt. Wiederholung ab 4.
+optional: 10.Mit der Methode changeContractStatus den Parameter StatusType: opened setzen, somit wird der Status Erfasst für das Dossier gesetzt. Wiederholung ab 4.
 möglich.
 
 Sie ändern den Status eines Vorgangs mit der Funktion changeContractStatus. Bitte beachten Sie, dass diese Funktion Bestandteil des Service MyClaimExternalService ist (siehe unten). Um den Status zu wechseln, müssen sie den Parameter StatusType setzen.

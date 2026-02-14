@@ -28,7 +28,7 @@ Kurzbeschreibung der Arbeitsweise
    Daten, die explizit löschbar sind: Ausstattungslisten, Zustandsdaten und Restwertprognosedaten.
 5. Das Fahrzeug wird bewertet und der Vorgang gespeichert.
 6. Die Vorgangsdaten werden als VXS Datenstruktur zurückgegeben.
-7. Die Datenausgabemenge wird durch den Parameter [Coverage](#expandblock-14989-d2e410104) begrenzt.
+7. Die Datenausgabemenge wird durch den Parameter Coverage begrenzt.
 
    Mit dem Parameter Coverage steuern Sie den Datenumfang der zurückgegeben werden soll.
 

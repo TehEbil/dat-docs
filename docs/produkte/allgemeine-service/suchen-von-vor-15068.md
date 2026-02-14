@@ -24,7 +24,7 @@ Eingabedaten
 SearchCriterionList - Suchkriterien, ein oder mehrere Suchbegriffe wie zum Beispiel: KFZ-Kennzeichen LicenseNumber oder Fahrgestellnummer Vin.  
 Limit - Gibt die maximale Anzahl von Ergebnissen pro Abfrage an; Wert ist optional, Standardwert
 ist 20. Der zulässige Bereich liegt zwischen 1 und 1000.  
-[Coverage](#expandblock-15068-d2e430703) - Datenausgabeumfang. Dieser Wert ist optional, der Standardwert lautet: COMPLETE
+Coverage - Datenausgabeumfang. Dieser Wert ist optional, der Standardwert lautet: COMPLETE
 
 Mit dem Parameter Coverage steuern Sie den Datenumfang der zurückgegeben werden soll.
 
