@@ -6,4 +6,4 @@ breadcrumb: "SilverDAT Produkte > SilverDAT 3 valuateExpert > Schnittstellenoper
 
 # Fahrzeugbilder Funktionen
 
-Die Beschreibung der [Fahrzeugbilder Funktionen](../../dat-uropa-code-fahrzeugau/fahrzeugbilder-2026.md) für SilverDAT 3 valuateExpert/PlusPartner finden Sie im Kapitel [DAT €uropa-Code Fahrzeugauswahl](../../dat-uropa-code-1303.md).
+Die Beschreibung der [Fahrzeugbilder Funktionen](../../dat-uropa-code-fahrzeugau/fahrzeugbilder-funkt/index.md) für SilverDAT 3 valuateExpert/PlusPartner finden Sie im Kapitel [DAT €uropa-Code Fahrzeugauswahl](../../dat-uropa-code-fahrzeugau/index.md).

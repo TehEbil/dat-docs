@@ -21,9 +21,9 @@ verlieren alle früheren Versionen ihre Gültigkeit.
 | 1.8 | 21.10.2013 | neues Komplett-Beispiel Authentication und VIN-Abfrage in PHP |
 | 1.7 | 21.08.2013 | neues Komplett-Beispiel Authentication/calculatePro in C# |
 | 1.6 | 04.06.2013 | neues Kapitel [Element locale](arbeiten-mit-den-web/element-locale-1352.md) |
-| 1.5 | 24.04.2013 | Aufnahme Kapitel [SVG-Behandlung](svg-in-den-dat-1551.md) |
-| 1.4 | 03.04.2013 | Erweiterung [Authentifizierung uber die neuen SilverDAT Webservices](authentifizier-1294.md); Erweiterung beim Login |
-| 1.3 | 10.10.2012 | Aufnahme Fallbeispiel für [Login-Verfahren](authentifizier-1294.md) |
+| 1.5 | 24.04.2013 | Aufnahme Kapitel [SVG-Behandlung](svg-in-den-dat-anwen/index.md) |
+| 1.4 | 03.04.2013 | Erweiterung [Authentifizierung uber die neuen SilverDAT Webservices](authentifizierung-de/index.md); Erweiterung beim Login |
+| 1.3 | 10.10.2012 | Aufnahme Fallbeispiel für [Login-Verfahren](authentifizierung-de/index.md) |
 | 1.2 | 01.10.2012 | Aufnahme Komplettes Beispiel erweitertes Login-Verfahren, Komplette Beispiel-Klasse CustomerService und Komplettes Beispiel VehicleIdentification/Evaluation in PHP |
 | 1.1 | 05.06.2012 | Überarbeitung Login-Behandlung wegen neuer Authentifizierung |
 | 1.0 | 04.04.2011 | Ersterstellung |

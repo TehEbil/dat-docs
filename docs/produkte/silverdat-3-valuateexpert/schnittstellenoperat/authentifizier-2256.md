@@ -7,7 +7,7 @@ breadcrumb: "SilverDAT Produkte > SilverDAT 3 valuateExpert > Schnittstellenoper
 # Authentifizierung
 
 Die Authentifizierung für SilverDAT 3 valuateExpert/PlusPartner erfolgt über die Transaction based Authentication Methode. Eine ausführliche Beschreibung
-des Authentifizierungsmechanismus erhalten Sie unter: [Authentifizierung über die neuen SilverDAT Webservices](../../../allgemein/dat-developers-guide/authentifizier-1294.md).
+des Authentifizierungsmechanismus erhalten Sie unter: [Authentifizierung über die neuen SilverDAT Webservices](../../../allgemein/dat-developers-guide/authentifizierung-de/index.md).
 
 Bitte beachten Sie, dass zusätzlich zu den Anmeldedaten die Produktvariante gesetzt
 werden muss.

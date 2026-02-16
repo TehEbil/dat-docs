@@ -19,7 +19,7 @@ Mit der jeweils aktuellsten Fassung verlieren alle früheren Versionen ihre Gül
 | 1.8 | 01.09.2011 | neue Funktion [Informationsermittlung mit DAT €uropa-Code, Ausstattung und DVN](schnittstellenoperat/ruckgabe-von-e-2513.md) |
 | 1.7 | 15.06.2011 | neue Funktion zur [Rückgabe von Modellinformationen](schnittstellenoperat/ruckgabe-von-m-2520.md) |
 | 1.6 | 29.03.2011 | neue Funktionen [Rückgabe von Modellinformationen](schnittstellenoperat/ruckgabe-von-m-2520.md), [Request getExtPartNoInfoByModelAndExtPartNo](schnittstellenoperat/request-getext-2522.md); neuer Wert simple für Parameter COVERAGE |
-| 1.5 | 23.03.2011 | [CalculationAudit - Funktionen](schnittstellen-2524.md) |
+| 1.5 | 23.03.2011 | [CalculationAudit - Funktionen](schnittstellenoperat/index.md) |
 | 1.4 | 25.11.2010 | Überarbeitung Dokumentstrukturen |
 | 1.3 | 27.05.2010 | Erweiterung um getExtPartNoInfoByBaseModelAndIntPartNo und Parameter COVERAGE |
 | 1.2 | 03.03.2010 | Überarbeitung Requests |

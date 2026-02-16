@@ -30,7 +30,7 @@ Hierzu empfiehlt es sich eine netzspezifische myclaim Schulung in Anspruch zu ne
 | network | Ein Netzwerk das individuelle Prozesse / Arbeitsabläufe, Status sowie diverse Rollen und Berechtigungen umfasst. |
 | customer role | Rolle eines Benutzers oder Partners in einem Auftrag (z.B. Werkstatt, Versicherer etc…) |
 | user | Benutzer des Auftrags |
-| Dossier | Aktenzeichen Vorgang siehe [Aktenzeichen Vorgang (Dossier)](../../vxs/aktenzeichenvorgange-doss/aktenzeichenvo-1371.md) |
+| Dossier | Aktenzeichen Vorgang siehe [Aktenzeichen Vorgang (Dossier)](../../vxs/aktenzeichenvorgange-doss/aktenzeichenvorgang/index.md) |
 
 Myclaim Schnittstellen
 

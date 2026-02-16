@@ -17,7 +17,7 @@ breadcrumb: "SilverDAT Produkte > SilverDAT 3 PRO > Schnittstellenoperationen > 
 Authentifizierung:
 
 Die Authentifizierung findet mittels eines Authentifizierungstokens im Header der
-POST Anfrage statt. Zum generieren des Tokens lesen Sie bitte den Bereich [Authentifizierung der SilverDAT](../../../allgemein/dat-developers-guide/authentifizier-1294.md) Webservices.
+POST Anfrage statt. Zum generieren des Tokens lesen Sie bitte den Bereich [Authentifizierung der SilverDAT](../../../allgemein/dat-developers-guide/authentifizierung-de/index.md) Webservices.
 
 Übergabeformat:
 

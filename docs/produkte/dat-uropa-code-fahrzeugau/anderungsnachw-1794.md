@@ -54,7 +54,7 @@ Mit der jeweils aktuellsten Fassung verlieren alle früheren Versionen ihre Gül
 | 1.21 | 01.06.2011 | Neuer Fehlercode für [getVehicleTypes](fahrzeugauswahl-funk/getvehicletype-1904.md), [getManufacturers](fahrzeugauswahl-funk/getmanufacture-1834.md), [getBaseModels](fahrzeugauswahl-funk/getbasemodelsn-1838.md), [getSubModels](fahrzeugauswahl-funk/getsubmodels-1840.md) |
 | 1.20 | 06.04.2011 | Neues Kapitel [Verwendung in anderen DAT Produkten](verwendung-mit-1842.md) |
 | 1.19 | 23.11.2010 | Modularisierung/Umstrukturierung Dokus Neue Produkte |
-| 1.18 | 18.08.2010 | Neues Kapitel [Oberflächen-Schnittstelle](oberflachen-sc-1845.md) |
+| 1.18 | 18.08.2010 | Neues Kapitel [Oberflächen-Schnittstelle](oberflachen-schnitts/index.md) |
 | 1.17 | 20.03.2010 | Überarbeitung Allgemeines |
 | 1.16 | 25.02.2010 | Überarbeitung VXS-Struktur; VINResult, VINColor, VINVehicle, VINumber |
 | 1.15 | 16.02.2010 | Komplett-Überarbeitung für Veröffentlichung |

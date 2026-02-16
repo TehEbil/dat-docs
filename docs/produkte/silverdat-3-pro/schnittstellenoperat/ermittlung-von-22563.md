@@ -25,4 +25,4 @@ Rückgabe
 | Name | Datentyp | Beschreibung | Kind - Elemente |
 | --- | --- | --- | --- |
 | [sparePartsResultPerDPN](../../silverdat-calculatepro-si/datentypen/sparepartsresu-17219.md) | [SparePartsResultPerDPN[]](../../silverdat-calculatepro-si/datentypen/sparepartsresu-17219.md) | Ergebnisse der DAT-interne Datenverarbeitungsnummer (DVN), ohne Fahrzeuginformationen |  |
-| Dossier | complexType, Dossier | Liste Fahrzeugidentifikation nach DAT im VXS-Format | [Country | Language | Vehicle]    Country (String3): Landeskürzel für den Zielmarkt  Language (String5): Sprachkennzeichen in ISO-Kodierung  [Vehicle](../../../vxs/aktenzeichenvorgange-doss/fahrzeug-vehic-6692.md) ([Vehicle](../../../vxs/aktenzeichenvorgange-doss/fahrzeug-vehic-6692.md)): Fahrzeugdaten |
+| Dossier | complexType, Dossier | Liste Fahrzeugidentifikation nach DAT im VXS-Format | [Country | Language | Vehicle]    Country (String3): Landeskürzel für den Zielmarkt  Language (String5): Sprachkennzeichen in ISO-Kodierung  [Vehicle](../../../vxs/aktenzeichenvorgange-doss/fahrzeug-vehicle/index.md) ([Vehicle](../../../vxs/aktenzeichenvorgange-doss/fahrzeug-vehicle/index.md)): Fahrzeugdaten |

@@ -7,4 +7,4 @@ breadcrumb: "SilverDAT Produkte > SilverDAT Mietwagenspiegel > Schnittstellenope
 # Authentifizierung
 
 Die Authentifizierung für SilverDAT Mietwagenspiegel erfolgt über die Transaction based Authentication Methode. Eine ausführliche Beschreibung
-des Authentifizierungsmechanismus erhalten Sie unter: [Authentifizierung über die neuen SilverDAT Webservices](../../../allgemein/dat-developers-guide/authentifizier-1294.md).
+des Authentifizierungsmechanismus erhalten Sie unter: [Authentifizierung über die neuen SilverDAT Webservices](../../../allgemein/dat-developers-guide/authentifizierung-de/index.md).

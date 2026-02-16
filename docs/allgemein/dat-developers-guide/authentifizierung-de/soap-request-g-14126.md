@@ -13,10 +13,10 @@ Beispiele für applikationseigene Service-URLs:
 | SilverDAT Anwendung | WSDL |
 | --- | --- |
 | SilverDAT 3 PRO | https://www.datgroup.com/myClaim/soap/v2/MyClaimExternalAuthenticationService?wsdl |
-| [Autoglas Plus SilverDAT inside + SilverDAT calculateGlass](../../../produkte/autoglas-plus-1518.md) | https://www.datgroup.com/GlassRep/services/Authentication?wsdl |
-| [SilverDAT 3 valuateFinance](../../../produkte/silverdat-3-va-1520.md) | https://www.datgroup.com/FinanceLine/soap/Authentication?wsdl |
+| [Autoglas Plus SilverDAT inside + SilverDAT calculateGlass](../../../produkte/autoglas-plus-silverdat-i/index.md) | https://www.datgroup.com/GlassRep/services/Authentication?wsdl |
+| [SilverDAT 3 valuateFinance](../../../produkte/silverdat-3-valuatefinanc/index.md) | https://www.datgroup.com/FinanceLine/soap/Authentication?wsdl |
 | SilverDAT 3 valuateExpert/  PlusPartner | https://www.datgroup.com/valuateNG/soap/Authentication?wsdl |
-| [SilverDAT calculatePro](../../../produkte/silverdat-calc-1524.md) | https://www.datgroup.com/VehicleRepairOnline/services/Authentication?wsdl |
+| [SilverDAT calculatePro](../../../produkte/silverdat-calculatepro-si/index.md) | https://www.datgroup.com/VehicleRepairOnline/services/Authentication?wsdl |
 | DAT €uropa-Code® Fahrzeugauswahl | https://www.datgroup.com/DATECodeSelection/services/Authentication?wsdl |
 
 Es ist jeweils der Service des DAT-Produktes zu verwenden, dessen Service-Funktion

@@ -36,5 +36,5 @@ Alle Dossiers sowie die zugehörigen DatProcessInfos die die Eigenschaften der [
 | --- | --- | --- |
 | countOfContractslsFound | Integer | Gesamtzahl der gefundenen Ergebnisse |
 | countOfContractssReturned | Integer | Zahl der tatsächlich zurückgegebenen Verträge. Die Anzahl der Suchergebnisse kann über den settings Parameter begrenzt und mit einem offset versehen werden. |
-| [Dossiers](../../../vxs/aktenzeichenvo-1369.md) | [Dossier](../../../vxs/aktenzeichenvorgange-doss/aktenzeichenvo-1371.md) | Ein Dossier Objekt, das eine Liste mit allen Ergebnissen enthält. |
+| [Dossiers](../../../vxs/aktenzeichenvorgange-doss/index.md) | [Dossier](../../../vxs/aktenzeichenvorgange-doss/aktenzeichenvorgang/index.md) | Ein Dossier Objekt, das eine Liste mit allen Ergebnissen enthält. |
 | [dossiersDatProcessInfos](../datentypen/dossiersdatpro-2427.md) | [dossiersDatProcessInfos](../datentypen/dossiersdatpro-2427.md) |  |

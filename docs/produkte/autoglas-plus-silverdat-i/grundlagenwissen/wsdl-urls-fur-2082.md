@@ -18,4 +18,4 @@ Diese Nacherfassung wird über die Oberfläche durchgeführt. Auch die Kalkulati
 Glasschadenvorgangs wird über die Oberfläche durchgeführt.
 
 In beiden Fällen müssen Sie die Oberflächen-Schnittstelle benutzen. Weitere Informationen
-finden Sie im Kapitel [Aufruf der Anwendungsoberfläche über Schnittstelle](../aufruf-der-anw-2064.md).
+finden Sie im Kapitel [Aufruf der Anwendungsoberfläche über Schnittstelle](../aufruf-der-anwendung/index.md).

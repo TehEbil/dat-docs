@@ -1,8 +1,12 @@
 ---
 title: "Reparaturkostenkalkulation"
+topic_id: "25994"
+breadcrumb: "Technische Informationen > Ausgabe Nr. 95 Februar 2026 > Reparaturkostenkalkulation"
 ---
 
 # Reparaturkostenkalkulation
+
+
 
 - [abkundigung-de-32027](abkundigung-de-32027.md)
 - [abkundigung-de-32028](abkundigung-de-32028.md)

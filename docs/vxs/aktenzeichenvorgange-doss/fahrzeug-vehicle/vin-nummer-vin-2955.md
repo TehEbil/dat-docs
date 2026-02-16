@@ -8,7 +8,7 @@ breadcrumb: "Datenaustauschformat VXS > Aktenzeichen/Vorgänge (Dossiers) > Fahr
 
 < VINumber > ist ein Unter-Element von < VINVehicle >. Hier wird die Vehicle identification number (VIN) dargestellt. Ist dieses Feld
 leer, ist keine VIN-Abfrage durchgeführt worden. Für die weitere Verarbeitung sollte
-die VIN aus dem Container [Vehicle](../fahrzeug-vehic-6692.md) genommen werden.
+die VIN aus dem Container [Vehicle](index.md) genommen werden.
 
 Felder:
 

@@ -1,8 +1,12 @@
 ---
 title: "SilverDAT 3 valuateExpert"
+topic_id: "1522"
+breadcrumb: "SilverDAT Produkte > SilverDAT 3 valuateExpert"
 ---
 
 # SilverDAT 3 valuateExpert
+
+
 
 ## Bereiche
 
@@ -14,5 +18,4 @@ title: "SilverDAT 3 valuateExpert"
 - [anderungsnachw-2251](anderungsnachw-2251.md)
 - [einschrankung-2252](einschrankung-2252.md)
 - [pramissen-fur-2253](pramissen-fur-2253.md)
-- [schnittstellen-2254](schnittstellen-2254.md)
 - [was-ist-silver-2250](was-ist-silver-2250.md)

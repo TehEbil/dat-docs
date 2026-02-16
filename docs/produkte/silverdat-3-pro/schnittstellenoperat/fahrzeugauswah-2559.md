@@ -6,4 +6,4 @@ breadcrumb: "SilverDAT Produkte > SilverDAT 3 PRO > Schnittstellenoperationen > 
 
 # Fahrzeugauswahl - Funktionen
 
-Die Beschreibung der [Fahrzeugauswahl - Funktionen](../../dat-uropa-code-fahrzeugau/fahrzeugauswah-1903.md) für SilverDAT 3 PRO finden Sie im Kapitel [DAT €uropa-Code Fahrzeugauswahl](../../dat-uropa-code-1303.md).
+Die Beschreibung der [Fahrzeugauswahl - Funktionen](../../dat-uropa-code-fahrzeugau/fahrzeugauswahl-funk/index.md) für SilverDAT 3 PRO finden Sie im Kapitel [DAT €uropa-Code Fahrzeugauswahl](../../dat-uropa-code-fahrzeugau/index.md).

@@ -1,8 +1,12 @@
 ---
 title: "Verwalten von Vorgängen"
+topic_id: "1741"
+breadcrumb: "SilverDAT Produkte > Allgemeine Services > Verwalten von Vorgängen"
 ---
 
 # Verwalten von Vorgängen
+
+
 
 - [aendern-eines-14989](aendern-eines-14989.md)
 - [aktualisieren-14991](aktualisieren-14991.md)

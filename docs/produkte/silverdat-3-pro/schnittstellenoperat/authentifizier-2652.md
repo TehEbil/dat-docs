@@ -7,4 +7,4 @@ breadcrumb: "SilverDAT Produkte > SilverDAT 3 PRO > Schnittstellenoperationen > 
 # Authentifizierung
 
 Die Authentifizierung für SilverDAT 3 PRO erfolgt über die Transaction based Authentication Methode. Eine ausführliche Beschreibung
-des Authentifizierungsmechanismus erhalten Sie unter: [Authentifizierung über die neuen SilverDAT Webservices](../../../allgemein/dat-developers-guide/authentifizier-1294.md).
+des Authentifizierungsmechanismus erhalten Sie unter: [Authentifizierung über die neuen SilverDAT Webservices](../../../allgemein/dat-developers-guide/authentifizierung-de/index.md).

@@ -1,8 +1,12 @@
 ---
 title: "Datenstrukturen"
+topic_id: "27917"
+breadcrumb: "Data Entry Tool (DET) - Schnittstelle zum Datenabruf > Data Entry Tool (DET) 2026 - Schnittstelle zum Datenabruf > Datenstrukturen"
 ---
 
 # Datenstrukturen
+
+
 
 - [ausstattung-28356](ausstattung-28356.md)
 - [ausstattungspo-27921](ausstattungspo-27921.md)

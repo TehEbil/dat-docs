@@ -23,7 +23,7 @@ Rückgabe
 
 | Name | Datentyp | Beschreibung |
 | --- | --- | --- |
-| [Dossier](../../../vxs/aktenzeichenvorgange-doss/aktenzeichenvo-1371.md) | [Dossier](../../../vxs/aktenzeichenvorgange-doss/aktenzeichenvo-1371.md) | Enthält das Fahrzeugobjekt, die Arbeitslöhne, Kalkulationsfaktoren, Schadenspositionen und das Kalkulationssergebnis |
+| [Dossier](../../../vxs/aktenzeichenvorgange-doss/aktenzeichenvorgang/index.md) | [Dossier](../../../vxs/aktenzeichenvorgange-doss/aktenzeichenvorgang/index.md) | Enthält das Fahrzeugobjekt, die Arbeitslöhne, Kalkulationsfaktoren, Schadenspositionen und das Kalkulationssergebnis |
 
 Als Antwort wird eine komplette Kalkulation, inklusive Ölfüllstandsmengen, wie folgt
 zurückgeliefert:

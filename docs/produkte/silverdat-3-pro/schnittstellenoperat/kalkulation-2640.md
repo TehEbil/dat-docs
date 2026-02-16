@@ -18,7 +18,7 @@ Die Soap Schnittstelle der SilverDAT 3 PRO bietet zusätzlich die Funktionen des
 | [exportDossierToDocument](../../silverdat-calculatepro-si/schnittstellenoperat/exportieren-vo-2338.md) | nicht vorhanden |  |  |
 | exportToDocument | nicht vorhanden |  |  |
 | [getCalculationResultN](../../silverdat-calculatepro-si/schnittstellenoperat/abrufen-eines-19752.md) | nicht vorhanden |  |  |
-| [getContract](../../silverdat-calculatepro-si/schnittstellenoperat/abrufen-eines-1469.md) | getContract | [myClaimExternalService](../../silverdat-3-valuatefinanc/schnittstellen-2190.md) | Neue Parameter |
+| [getContract](../../silverdat-calculatepro-si/schnittstellenoperat/abrufen-eines-1469.md) | getContract | [myClaimExternalService](../../silverdat-3-valuatefinanc/schnittstellenoperat/index.md) | Neue Parameter |
 | [getContractList](../../silverdat-calculatepro-si/schnittstellenoperat/request-getdvn-2417.md) | nicht vorhanden |  |  |
 | [getContractPriceGenerations](../../silverdat-calculatepro-si/schnittstellenoperat/abruf-aller-vo-2343.md) | [getContractPriceGenerations](abruf-aller-vo-18651.md) | [VehicleRepairService](../../silverdat-calculatepro-si/schnittstellenoperat/vehiclerepairs-2413.md) |  |
 | [getDVNEquipments](../../silverdat-calculatepro-si/schnittstellenoperat/abruf-von-auss-2363.md) | [getDVNEquipments](abruf-von-auss-18654.md) | [VehicleRepairService](../../silverdat-calculatepro-si/schnittstellenoperat/vehiclerepairs-2413.md) |  |
@@ -34,7 +34,7 @@ Die Soap Schnittstelle der SilverDAT 3 PRO bietet zusätzlich die Funktionen des
 | [getSparePartsDetailsForDPNByVIN](../../silverdat-calculatepro-si/schnittstellenoperat/ermittlung-von-17165.md) | [getSparePartsDetailsForDPNByVIN](ermittlung-von-17326.md) | [VehicleRepairService](../../silverdat-calculatepro-si/schnittstellenoperat/vehiclerepairs-2413.md) / PartsService |  |
 | [getTemplates](../../silverdat-calculatepro-si/schnittstellenoperat/abruf-aller-ex-2349.md) | nicht vorhanden |  |  |
 | [getVaildDATProcesses](../../silverdat-calculatepro-si/schnittstellenoperat/abfragen-von-d-2366.md) | [getVaildDATProcesses](abfragen-von-d-18666.md) | [VehicleRepairService](../../silverdat-calculatepro-si/schnittstellenoperat/vehiclerepairs-2413.md) |  |
-| [importDossier](../../silverdat-calculatepro-si/schnittstellenoperat/erstellen-aktu-1367.md) | [createOrUpdateContract](../../silverdat3-myclaim/schnittstellenoperat/erstellen-eine-16529.md)N | [myClaimExternalService](../../silverdat-3-valuatefinanc/schnittstellen-2190.md) | Neue Parameter |
+| [importDossier](../../silverdat-calculatepro-si/schnittstellenoperat/erstellen-aktu-1367.md) | [createOrUpdateContract](../../silverdat3-myclaim/schnittstellenoperat/erstellen-eine-16529.md)N | [myClaimExternalService](../../silverdat-3-valuatefinanc/schnittstellenoperat/index.md) | Neue Parameter |
 | listTemplates | nicht vorhanden |  |  |
 | [setContractPriceGeneration](../../silverdat-calculatepro-si/schnittstellenoperat/anderung-eines-2351.md) | [setContractPriceGeneration](anderung-eines-18669.md) | [VehicleRepairService](../../silverdat-calculatepro-si/schnittstellenoperat/vehiclerepairs-2413.md) |  |
 

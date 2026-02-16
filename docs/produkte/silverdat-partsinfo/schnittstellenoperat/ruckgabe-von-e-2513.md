@@ -30,7 +30,7 @@ Parameter
 
 Rückgabe
 
-Die Rückgabe erfolgt in VXS-Struktur. Zurückgegeben werden 1:N [Dossier](../../../vxs/aktenzeichenvo-1369.md), mit Informationen aus [Fahrzeug](../../../vxs/aktenzeichenvorgange-doss/fahrzeug-vehic-6692.md), [Ausstattungen zum DAT €uropa-Code, Ausstattungspositionen, Teilepositionen](../../../vxs/aktenzeichenvorgange-doss/fahrzeug-vehicle/ausstattungen-1381.md).
+Die Rückgabe erfolgt in VXS-Struktur. Zurückgegeben werden 1:N [Dossier](../../../vxs/aktenzeichenvorgange-doss/index.md), mit Informationen aus [Fahrzeug](../../../vxs/aktenzeichenvorgange-doss/fahrzeug-vehicle/index.md), [Ausstattungen zum DAT €uropa-Code, Ausstattungspositionen, Teilepositionen](../../../vxs/aktenzeichenvorgange-doss/fahrzeug-vehicle/ausstattungen-1381.md).
 
 WSDL
 

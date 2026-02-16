@@ -1,8 +1,12 @@
 ---
 title: "Fahrzeugauswahl - Funktionen"
+topic_id: "1903"
+breadcrumb: "SilverDAT Produkte > DAT €uropa-Code® Fahrzeugauswahl > Fahrzeugauswahl - Funktionen"
 ---
 
 # Fahrzeugauswahl - Funktionen
+
+
 
 - [1-request-11426](1-request-11426.md)
 - [1-response-11427](1-response-11427.md)

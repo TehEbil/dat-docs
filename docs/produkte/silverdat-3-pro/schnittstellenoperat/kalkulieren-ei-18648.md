@@ -43,8 +43,8 @@ Parameter
 
 Rückgabe
 
-Die Antwort ist eine komplette Kalkulation als [Dossier im VXS-Format](../../../vxs/aktenzeichenvorgange-doss/aktenzeichenvo-1371.md).
+Die Antwort ist eine komplette Kalkulation als [Dossier im VXS-Format](../../../vxs/aktenzeichenvorgange-doss/aktenzeichenvorgang/index.md).
 
 | Name | Datentyp | Beschreibung |
 | --- | --- | --- |
-| [Dossiers](../../../vxs/aktenzeichenvo-1369.md) | [Dossiers](../../../vxs/aktenzeichenvo-1369.md) | Enthält das Berechnungsergebnis inklusive aller sonstigen Informationen wie z.B. Ölfüllstandsmengen etc. |
+| [Dossiers](../../../vxs/aktenzeichenvorgange-doss/index.md) | [Dossiers](../../../vxs/aktenzeichenvorgange-doss/index.md) | Enthält das Berechnungsergebnis inklusive aller sonstigen Informationen wie z.B. Ölfüllstandsmengen etc. |

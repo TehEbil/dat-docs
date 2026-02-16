@@ -1,8 +1,12 @@
 ---
 title: "DAT Developers Guide"
+topic_id: "1540"
+breadcrumb: "Allgemeine Informationen > DAT Developers Guide"
 ---
 
 # DAT Developers Guide
+
+
 
 ## Bereiche
 
@@ -14,7 +18,3 @@ title: "DAT Developers Guide"
 ## Topics
 
 - [anderungsnachw-1541](anderungsnachw-1541.md)
-- [anzeigeabfrage-31197](anzeigeabfrage-31197.md)
-- [arbeiten-mit-d-1563](arbeiten-mit-d-1563.md)
-- [authentifizier-1294](authentifizier-1294.md)
-- [svg-in-den-dat-1551](svg-in-den-dat-1551.md)

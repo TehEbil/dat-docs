@@ -12,7 +12,7 @@ verlieren alle früheren Versionen ihre Gültigkeit.
 | Version | Datum | Änderung |
 | --- | --- | --- |
 | 2.4 | 04.05.2017 | Angleichen der Dokumentation DE / EN |
-| 2.3 | 21.10.2013 | Änderung der action-Adresse für [Aufruf der Anwendungsoberflaeche über Schnittstelle](aufruf-der-anw-2064.md) |
+| 2.3 | 21.10.2013 | Änderung der action-Adresse für [Aufruf der Anwendungsoberflaeche über Schnittstelle](aufruf-der-anwendung/index.md) |
 | 2.2 | 18.01.2012 | Komplettüberarbeitung |
 | 2.1 | 23.05.2011 | Auflistung Parameter für createContract |
 | 2.0 | 15.02.2011 | Änderung des Titels |

@@ -1,8 +1,12 @@
 ---
 title: "Fahrzeugidentifikation - Funktionen"
+topic_id: "1994"
+breadcrumb: "SilverDAT Produkte > DAT €uropa-Code® Fahrzeugauswahl > Fahrzeugidentifikation - Funktionen"
 ---
 
 # Fahrzeugidentifikation - Funktionen
+
+
 
 - [abrufen-der-me-31066](abrufen-der-me-31066.md)
 - [achsen-fahrwer-17305](achsen-fahrwer-17305.md)

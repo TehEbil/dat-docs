@@ -13,14 +13,14 @@ Mit der jeweils aktuellsten Fassung verlieren alle früheren Versionen ihre Gül
 | 3.7 | 08.02.2024 | Neuer Request-Parameter considerCurrentCondition für getUsedvehicleForecast, createDossierN und changeDossierN |
 | 3.6 | 05.02.2020 | Neue Benutzerwerte für createDossierN; Responsebeschreibung für getVehicleApprixomateValue |
 | 3.5 | 27.11.2020 | Neuer Service verfügbar: DossierN |
-| 3.4 | 10.07.2020 | [Integration der Oberfläche](../silverdat-calculatepro-si/integration-de-2160.md), Erweiterung um die Parameter: pageList, vehicleIdentNumber, vehicleIdentNumberRequest, initialRegistration, mileageEstimated, kbaNumber, nationalCodeAustria, datECode, container und constructionTime |
+| 3.4 | 10.07.2020 | [Integration der Oberfläche](../silverdat-calculatepro-si/integration-der-ober/index.md), Erweiterung um die Parameter: pageList, vehicleIdentNumber, vehicleIdentNumberRequest, initialRegistration, mileageEstimated, kbaNumber, nationalCodeAustria, datECode, container und constructionTime |
 | 3.3 | 20.05.2020 | Neue Option nationalCode für Funktion getVehicleApproximateValue |
 | 3.2 | 19.09.2019 | Neuer Service verfügbar: BatchValuation und Erweiterung der Fehlermeldungen für die Methoden createDossier und changeDossier |
 | 3.1 | 26.04.2019 | Entfall der Pflicht zur Angabe der Bauzeit bei der Restwertprognose von Neufahrzeugen mit getNewVehicleForecast und createDossier. |
 | 3.0 | 13.07.2018 | Die Funktion [getVehicleApproximateValue](schnittstellenoperat/parameter-getv-1818.md) wurde um den Mode AVERAGE erweitert. |
-| 2.9 | 13.04.2017 | Bei [Integration der Oberfläche](../silverdat-calculatepro-si/integration-de-2160.md) Verweise auf jQuery entfernt |
-| 2.8 | 08.06.2016 | Integration des Services [Fahrzeugbilder Funktionen](../dat-uropa-code-fahrzeugau/fahrzeugbilder-2026.md); Änderung der Servicepfade von services nach soap |
-| 2.7 | 28.05.2015 | Neues Kapitel: [Integration der Oberfläche](../silverdat-calculatepro-si/integration-de-2160.md) |
+| 2.9 | 13.04.2017 | Bei [Integration der Oberfläche](../silverdat-calculatepro-si/integration-der-ober/index.md) Verweise auf jQuery entfernt |
+| 2.8 | 08.06.2016 | Integration des Services [Fahrzeugbilder Funktionen](../dat-uropa-code-fahrzeugau/fahrzeugbilder-funkt/index.md); Änderung der Servicepfade von services nach soap |
+| 2.7 | 28.05.2015 | Neues Kapitel: [Integration der Oberfläche](../silverdat-calculatepro-si/integration-der-ober/index.md) |
 | 2.6 | 14.04.2015 | Die überarbeitete Funktion searchDossierList ersetzt die veraltete Funktion searchDossier. |
 | 2.5 | 14.05.2014 | Freigabe der Vorgangsverwaltung mit den Funktionen createDossier, getDossier, changeDossier, updateDossier, resetDossier2Default, deleteDossier, exportDossier, searchDossier. |
 | 2.4 | 01.12.2013 | Ergänzung um Funktionen für DAT-interne Zwecke. |

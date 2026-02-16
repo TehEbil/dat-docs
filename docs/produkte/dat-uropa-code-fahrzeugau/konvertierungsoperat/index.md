@@ -1,8 +1,12 @@
 ---
 title: "Konvertierungsoperationen"
+topic_id: "2032"
+breadcrumb: "SilverDAT Produkte > DAT €uropa-Code® Fahrzeugauswahl > Konvertierungsoperationen"
 ---
 
 # Konvertierungsoperationen
+
+
 
 - [constructionti-2033](constructionti-2033.md)
 - [date2construct-1807](date2construct-1807.md)

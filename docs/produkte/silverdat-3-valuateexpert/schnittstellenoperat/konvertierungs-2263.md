@@ -6,4 +6,4 @@ breadcrumb: "SilverDAT Produkte > SilverDAT 3 valuateExpert > Schnittstellenoper
 
 # Konvertierungsoperationen
 
-Die Beschreibung der [DAT €uropa-Code® Konvertierungsoperationen](../../dat-uropa-code-fahrzeugau/konvertierungs-2032.md) für SilverDAT 3 valuateExpert/PlusPartner finden Sie im Kapitel [DAT €uropa-Code Fahrzeugauswahl](../../dat-uropa-code-1303.md).
+Die Beschreibung der [DAT €uropa-Code® Konvertierungsoperationen](../../dat-uropa-code-fahrzeugau/konvertierungsoperat/index.md) für SilverDAT 3 valuateExpert/PlusPartner finden Sie im Kapitel [DAT €uropa-Code Fahrzeugauswahl](../../dat-uropa-code-fahrzeugau/index.md).

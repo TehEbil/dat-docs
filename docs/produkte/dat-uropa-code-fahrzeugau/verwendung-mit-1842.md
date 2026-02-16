@@ -23,10 +23,10 @@ Webservice VehicleSelectionService
 | SilverDAT Anwendung | WSDL |
 | --- | --- |
 | SilverDAT 3 PRO | https://www.datgroup.com/myClaim/soap/v2/VehicleSelectionService?wsdl |
-| [Autoglas Plus SilverDAT inside + SilverDAT calculateGlass](../autoglas-plus-1518.md) | https://www.datgroup.com/GlassRep/services/VehicleSelectionService?wsdl |
-| [SilverDAT 3 valuateFinance](../silverdat-3-va-1520.md) | https://www.datgroup.com/FinanceLine/soap/VehicleSelectionService?wsdl |
+| [Autoglas Plus SilverDAT inside + SilverDAT calculateGlass](../autoglas-plus-silverdat-i/index.md) | https://www.datgroup.com/GlassRep/services/VehicleSelectionService?wsdl |
+| [SilverDAT 3 valuateFinance](../silverdat-3-valuatefinanc/index.md) | https://www.datgroup.com/FinanceLine/soap/VehicleSelectionService?wsdl |
 | SilverDAT 3 valuateExpert/  PlusPartner | https://www.datgroup.com/valuateNG/soap/VehicleSelectionService?wsdl |
-| [SilverDAT calculatePro](../silverdat-calc-1524.md) | https://www.datgroup.com/VehicleRepairOnline/services/VehicleSelectionService?wsdl |
+| [SilverDAT calculatePro](../silverdat-calculatepro-si/index.md) | https://www.datgroup.com/VehicleRepairOnline/services/VehicleSelectionService?wsdl |
 | DAT €uropa-Code® Fahrzeugauswahl | https://www.datgroup.com/DATECodeSelection/services/VehicleSelectionService?wsdl |
 
 Webservice VehicleIdentificationService
@@ -34,10 +34,10 @@ Webservice VehicleIdentificationService
 | SilverDAT Anwendung | WSDL |
 | --- | --- |
 | SilverDAT 3 PRO | https://www.datgroup.com/myClaim/soap/v2/VehicleIdentificationService?wsdl |
-| [Autoglas Plus SilverDAT inside + SilverDAT calculateGlass](../autoglas-plus-1518.md) | https://www.datgroup.com/GlassRep/services/VehicleIdentificationService?wsdl |
-| [SilverDAT 3 valuateFinance](../silverdat-3-va-1520.md) | https://www.datgroup.com/FinanceLine/soap/VehicleIdentificationService?wsdl |
+| [Autoglas Plus SilverDAT inside + SilverDAT calculateGlass](../autoglas-plus-silverdat-i/index.md) | https://www.datgroup.com/GlassRep/services/VehicleIdentificationService?wsdl |
+| [SilverDAT 3 valuateFinance](../silverdat-3-valuatefinanc/index.md) | https://www.datgroup.com/FinanceLine/soap/VehicleIdentificationService?wsdl |
 | SilverDAT 3 valuateExpert/  PlusPartner | https://www.datgroup.com/valuateNG/soap/VehicleIdentificationService?wsdl |
-| [SilverDAT calculatePro](../silverdat-calc-1524.md) | https://www.datgroup.com/VehicleRepairOnline/services/VehicleIdentificationService?wsdl |
+| [SilverDAT calculatePro](../silverdat-calculatepro-si/index.md) | https://www.datgroup.com/VehicleRepairOnline/services/VehicleIdentificationService?wsdl |
 | DAT €uropa-Code® Fahrzeugauswahl | https://www.datgroup.com/DATECodeSelection/services/VehicleIdentificationService?wsdl |
 
 Webservice ConversionFunctionsService
@@ -45,16 +45,16 @@ Webservice ConversionFunctionsService
 | SilverDAT Anwendung | WSDL |
 | --- | --- |
 | SilverDAT 3 PRO | https://www.datgroup.com/myClaim/soap/v2/ConversionFunctionsService?wsdl |
-| [Autoglas Plus SilverDAT inside + SilverDAT calculateGlass](../autoglas-plus-1518.md) | https://www.datgroup.com/GlassRep/services/ConversionFunctionsService?wsdl |
-| [SilverDAT 3 valuateFinance](../silverdat-3-va-1520.md) | https://www.datgroup.com/FinanceLine/soap/ConversionFunctionsService?wsdl |
+| [Autoglas Plus SilverDAT inside + SilverDAT calculateGlass](../autoglas-plus-silverdat-i/index.md) | https://www.datgroup.com/GlassRep/services/ConversionFunctionsService?wsdl |
+| [SilverDAT 3 valuateFinance](../silverdat-3-valuatefinanc/index.md) | https://www.datgroup.com/FinanceLine/soap/ConversionFunctionsService?wsdl |
 | SilverDAT 3 valuateExpert/  PlusPartner | https://www.datgroup.com/valuateNG/soap/ConversionFunctionsService?wsdl |
-| [SilverDAT calculatePro](../silverdat-calc-1524.md) | https://www.datgroup.com/VehicleRepairOnline/services/ConversionFunctionsService?wsdl |
+| [SilverDAT calculatePro](../silverdat-calculatepro-si/index.md) | https://www.datgroup.com/VehicleRepairOnline/services/ConversionFunctionsService?wsdl |
 | DAT €uropa-Code® Fahrzeugauswahl | https://www.datgroup.com/DATECodeSelection/services/ConversionFunctionsService?wsdl |
 
 Webservice VehicleImagery
 
 | SilverDAT Anwendung | WSDL |
 | --- | --- |
-| [SilverDAT valuateFinance](../silverdat-3-va-1520.md) | https://www.datgroup.com/FinanceLine/soap/VehicleImagery?wsdl |
+| [SilverDAT valuateFinance](../silverdat-3-valuatefinanc/index.md) | https://www.datgroup.com/FinanceLine/soap/VehicleImagery?wsdl |
 | SilverDAT 3 valuateExpert/  PlusPartner | https://www.datgroup.com/valuateNG/soap/VehicleImagery?wsdl |
 | DAT €uropa-Code® Fahrzeugauswahl | https://www.datgroup.com/DATECodeSelection/services/VehicleImagery?wsdl |

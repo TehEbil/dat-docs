@@ -27,7 +27,7 @@ Die detaillierte Beschreibung des VXS-Formats und seiner Felder finden Sie im Ka
 
 | Name | Datentyp | Beschreibung |
 | --- | --- | --- |
-| [Dossiers](../../../vxs/aktenzeichenvo-1369.md) | [Dossiers](../../../vxs/aktenzeichenvo-1369.md) | Enthält das Berechnungsergebnis inklusive aller sonstigen Informationen wie z.B. Ölfüllstandsmengen etc. |
+| [Dossiers](../../../vxs/aktenzeichenvorgange-doss/index.md) | [Dossiers](../../../vxs/aktenzeichenvorgange-doss/index.md) | Enthält das Berechnungsergebnis inklusive aller sonstigen Informationen wie z.B. Ölfüllstandsmengen etc. |
 
 ```
 Dossier

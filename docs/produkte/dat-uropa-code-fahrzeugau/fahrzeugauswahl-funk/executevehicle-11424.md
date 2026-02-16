@@ -78,6 +78,6 @@ Verwendung in den DAT Produkten
 | SilverDAT Anwendung | URL |
 | --- | --- |
 | SilverDAT 3 PRO | https://www.datgroup.com/myClaim/rest/VehicleSelectionService |
-| [SilverDAT 3 valuateFinance](../../silverdat-3-va-1520.md) | https://www.datgroup.com/FinanceLine/rest/VehicleSelectionService |
+| [SilverDAT 3 valuateFinance](../../silverdat-3-valuatefinanc/index.md) | https://www.datgroup.com/FinanceLine/rest/VehicleSelectionService |
 | SilverDAT 3 valuateExpert/  Partner/Pluspartner | https://www.datgroup.com/valuateNG/rest/VehicleSelectionService |
 | DAT €uropa-Code® Fahrzeugauswahl | https://www.datgroup.com/DATEcodeSelection/rest/VehicleSelectionService |

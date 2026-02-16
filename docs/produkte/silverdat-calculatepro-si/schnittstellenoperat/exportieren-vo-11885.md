@@ -19,4 +19,4 @@ Als Antwort wird eine Liste von Kategorien der enthaltenen manuellen Positionen 
 
 | Name | Datentyp | Beschreibung |
 | --- | --- | --- |
-| [manualPositions](../../../vxs/aktenzeichenvorgange-doss/manuelle-posit-11910.md) | complexType    [DatCategory](../../../vxs/aktenzeichenvorgange-doss/manuelle-positionen/datcategory-11911.md)  [DatPosition](../../../vxs/aktenzeichenvorgange-doss/manuelle-positionen/datposition-11912.md) | Liste von Kategorien mit Namen und darunterliegenden manuellen Positionen |
+| [manualPositions](../../../vxs/aktenzeichenvorgange-doss/manuelle-positionen/index.md) | complexType    [DatCategory](../../../vxs/aktenzeichenvorgange-doss/manuelle-positionen/datcategory-11911.md)  [DatPosition](../../../vxs/aktenzeichenvorgange-doss/manuelle-positionen/datposition-11912.md) | Liste von Kategorien mit Namen und darunterliegenden manuellen Positionen |

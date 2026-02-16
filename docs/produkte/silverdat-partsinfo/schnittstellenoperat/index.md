@@ -1,8 +1,12 @@
 ---
 title: "Schnittstellenoperationen"
+topic_id: "2524"
+breadcrumb: "SilverDAT Produkte > SilverDAT PartsInfo > Schnittstellenoperationen"
 ---
 
 # Schnittstellenoperationen
+
+
 
 - [informationser-2539](informationser-2539.md)
 - [informationser-2543](informationser-2543.md)

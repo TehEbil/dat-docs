@@ -16,12 +16,12 @@ Parameter
 | Name / Elternelement | Datentyp | Beschreibung | Kind-Elemente |
 | --- | --- | --- | --- |
 | locale | complexType, Locale | Datenland, Land- und Spracheinstellung |  |
-| [dossiers](../../../vxs/aktenzeichenvo-1369.md) | [Dossiers[]](../../../vxs/aktenzeichenvo-1369.md), Pflicht | Dossiers ist ein übergeordneter Knoten und enthält das sogennante [dossier](../../../vxs/aktenzeichenvorgange-doss/aktenzeichenvo-1371.md). | [dossier](../../../vxs/aktenzeichenvorgange-doss/aktenzeichenvo-1371.md) ([Dossier](../../../vxs/aktenzeichenvorgange-doss/aktenzeichenvo-1371.md), Pflicht): enthält das Fahrzeugobjekt, die Arbeitslöhne, Kalkulationsfaktoren, Schadenspositionen und  das Kalkulationssergebnis. |
+| [dossiers](../../../vxs/aktenzeichenvorgange-doss/index.md) | [Dossiers[]](../../../vxs/aktenzeichenvorgange-doss/index.md), Pflicht | Dossiers ist ein übergeordneter Knoten und enthält das sogennante [dossier](../../../vxs/aktenzeichenvorgange-doss/aktenzeichenvorgang/index.md). | [dossier](../../../vxs/aktenzeichenvorgange-doss/aktenzeichenvorgang/index.md) ([Dossier](../../../vxs/aktenzeichenvorgange-doss/aktenzeichenvorgang/index.md), Pflicht): enthält das Fahrzeugobjekt, die Arbeitslöhne, Kalkulationsfaktoren, Schadenspositionen und  das Kalkulationssergebnis. |
 
 Rückgabe
 
-Die Antwort ist eine komplette Kalkulation als [Dossier im VXS-Format](../../../vxs/aktenzeichenvorgange-doss/aktenzeichenvo-1371.md).
+Die Antwort ist eine komplette Kalkulation als [Dossier im VXS-Format](../../../vxs/aktenzeichenvorgange-doss/aktenzeichenvorgang/index.md).
 
 | Name | Datentyp | Beschreibung |
 | --- | --- | --- |
-| [Dossier](../../../vxs/aktenzeichenvorgange-doss/aktenzeichenvo-1371.md) | [Dossier](../../../vxs/aktenzeichenvorgange-doss/aktenzeichenvo-1371.md) | Enthält das Fahrzeugobjekt, die Arbeitslöhne, Kalkulationsfaktoren, Schadenspositionen und  das Kalkulationssergebnis |
+| [Dossier](../../../vxs/aktenzeichenvorgange-doss/aktenzeichenvorgang/index.md) | [Dossier](../../../vxs/aktenzeichenvorgange-doss/aktenzeichenvorgang/index.md) | Enthält das Fahrzeugobjekt, die Arbeitslöhne, Kalkulationsfaktoren, Schadenspositionen und  das Kalkulationssergebnis |

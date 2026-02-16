@@ -24,4 +24,4 @@ Als Antwort wird das angefragte Dossier zurückgegeben.
 
 | Name | Datentyp | Beschreibung |
 | --- | --- | --- |
-| [Dossiers](../../../vxs/aktenzeichenvo-1369.md) | [Dossiers](../../../vxs/aktenzeichenvo-1369.md) | Enthält das Berechnungsergebnis inklusive aller sonstigen Fahrzeuginformationen. |
+| [Dossiers](../../../vxs/aktenzeichenvorgange-doss/index.md) | [Dossiers](../../../vxs/aktenzeichenvorgange-doss/index.md) | Enthält das Berechnungsergebnis inklusive aller sonstigen Fahrzeuginformationen. |

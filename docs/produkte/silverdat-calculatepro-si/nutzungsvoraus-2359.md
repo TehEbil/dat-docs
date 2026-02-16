@@ -8,7 +8,7 @@ breadcrumb: "SilverDAT Produkte > SilverDAT calculatePro / SilverDAT calculateEx
 
 Es wird zwingend ein Zugang zur SilverDAT calculatePro benötigt. Dieser besteht aus gültigen Authentifizierungsdaten, die sich aus DAT Kundennummer, Benutzername und Passwort zusammensetzt.
 
-Lesen Sie bitte zuerst das Kapitel [Authentifizierung über die neuen SilverDAT Webservices](../../allgemein/dat-developers-guide/authentifizier-1294.md) ff. in unserem Developers Guide, um weitere Informationen zur Terminologie und Durchführung
+Lesen Sie bitte zuerst das Kapitel [Authentifizierung über die neuen SilverDAT Webservices](../../allgemein/dat-developers-guide/authentifizierung-de/index.md) ff. in unserem Developers Guide, um weitere Informationen zur Terminologie und Durchführung
 zu erhalten. Lesen Sie bitte erst danach weiter in diesem Kapitel.
 
 Außerdem muss die Domain [http://www.dat.de](https://www.datgroup.com "https://www.datgroup.com") bzw. [https://www.dat.de](https://www.datgroup.com "https://www.datgroup.com") im Browser erreichbar sein.

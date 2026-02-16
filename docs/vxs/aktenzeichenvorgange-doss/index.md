@@ -1,8 +1,20 @@
 ---
 title: "Aktenzeichen/Vorgänge (Dossiers)"
+topic_id: "1369"
+breadcrumb: "Datenaustauschformat VXS > Aktenzeichen/Vorgänge (Dossiers)"
 ---
 
 # Aktenzeichen/Vorgänge (Dossiers)
+
+Das Hauptelement des XML-Schemas ist <Dossiers>. Es darf nur einmal enthalten sein.
+
+Attribute:
+
+| Element | Typ | Beschreibung |
+| --- | --- | --- |
+| source | string | Das System, das den Inhalt generiert hat, Für Importe in eine der Glas-Anwendungen: SD3. Für Importe aus Fremdanwendungen wird hier der Name der Anwendung vermerkt. |
+| type | string | Die Art bzw. den Zweck der Generierung, etwa spezielle abgespeckte Börsenexporte, z.B. SparePartRequest, GlassRep.  Bei Übergabe an eine Glas-Anwendung muß - zusätzlich zum source=SD3 - einer der folgenden Werte in type gesetzt werden:  - glassrep.mbg für Mercedes-Benz Glas  - glassrep.vwg für Volkswagen Glas  - glassrep.sdg für SilverDAT calculateGlass  - glassrep.agp für autoglas Plus  - glassrep.aug für Audi Glas  - glassrep.nsg für Nissan Glas |
+| [Dossier[]](aktenzeichenvorgang/index.md) | [Dossier[]](aktenzeichenvorgang/index.md) | Eine Liste von Einzelvorgängen bzw. [Dossier](aktenzeichenvorgang/index.md)s. |
 
 ## Bereiche
 
@@ -20,20 +32,9 @@ title: "Aktenzeichen/Vorgänge (Dossiers)"
 
 ## Topics
 
-- [aktenzeichenvo-1371](aktenzeichenvo-1371.md)
-- [attachments-26209](attachments-26209.md)
-- [bewertungsdate-1404](bewertungsdate-1404.md)
-- [bilder-imageli-12751](bilder-imageli-12751.md)
 - [ersatzteil-pos-1461](ersatzteil-pos-1461.md)
-- [fahrzeug-vehic-6692](fahrzeug-vehic-6692.md)
-- [handelsdaten-t-1402](handelsdaten-t-1402.md)
-- [handelstatigke-12754](handelstatigke-12754.md)
 - [haufig-verwend-2925](haufig-verwend-2925.md)
 - [images-images-1398](images-images-1398.md)
 - [maintenanceint-1463](maintenanceint-1463.md)
-- [manuelle-posit-11910](manuelle-posit-11910.md)
-- [repaircalculat-1407](repaircalculat-1407.md)
-- [reparaturauftr-1451](reparaturauftr-1451.md)
 - [umsatzsteuer-v-1400](umsatzsteuer-v-1400.md)
 - [vertragsdaten-22797](vertragsdaten-22797.md)
-- [weitere-handel-12755](weitere-handel-12755.md)

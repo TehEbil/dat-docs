@@ -1,8 +1,16 @@
 ---
 title: "Ausgabe Nr. 95 Februar 2026"
+topic_id: "32055"
+breadcrumb: "Technische Informationen > Ausgabe Nr. 95 Februar 2026"
 ---
 
 # Ausgabe Nr. 95 Februar 2026
+
+Technische Informationen für Schnittstellenpartner (Rel. 2026-001)
+
+Version 2026-01 Nr. 95 Published 11.02.2026
+
+Kontakt: interfaces@dat.eu
 
 ## Bereiche
 
@@ -12,8 +20,5 @@ title: "Ausgabe Nr. 95 Februar 2026"
 
 ## Topics
 
-- [fahrzeugbewert-25993](fahrzeugbewert-25993.md)
-- [fahrzeugidenti-25234](fahrzeugidenti-25234.md)
-- [reparaturkoste-25994](reparaturkoste-25994.md)
 - [ubersicht-32037](ubersicht-32037.md)
 - [ubersicht-aktu-32039](ubersicht-aktu-32039.md)

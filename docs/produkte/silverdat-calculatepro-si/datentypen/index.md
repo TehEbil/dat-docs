@@ -1,8 +1,12 @@
 ---
 title: "Datentypen"
+topic_id: "2506"
+breadcrumb: "SilverDAT Produkte > SilverDAT calculatePro / SilverDAT calculateExpert > Datentypen"
 ---
 
 # Datentypen
+
+
 
 - [additional-ver-2377](additional-ver-2377.md)
 - [additional-ver-2384](additional-ver-2384.md)

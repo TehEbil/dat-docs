@@ -27,7 +27,7 @@ Rückgabe
 
 | Name | Datentyp | Beschreibung |
 | --- | --- | --- |
-| [Dossiers](../../../vxs/aktenzeichenvo-1369.md) | [Dossiers](../../../vxs/aktenzeichenvo-1369.md) | Fahrzeugdossier inkl. Kalkulationsergebnis |
+| [Dossiers](../../../vxs/aktenzeichenvorgange-doss/index.md) | [Dossiers](../../../vxs/aktenzeichenvorgange-doss/index.md) | Fahrzeugdossier inkl. Kalkulationsergebnis |
 
 Als Rückgabe wird ein so genanntes „Fahrzeugdossier" zurückgeliefert. Dieses Dossier
 ist im so genannten VXS-Format gehalten. Folgende Informationsblöcke werden zurückgegeben:

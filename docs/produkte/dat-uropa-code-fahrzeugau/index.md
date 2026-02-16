@@ -1,8 +1,12 @@
 ---
 title: "DAT €uropa-Code® Fahrzeugauswahl"
+topic_id: "1303"
+breadcrumb: "SilverDAT Produkte > DAT €uropa-Code® Fahrzeugauswahl"
 ---
 
 # DAT €uropa-Code® Fahrzeugauswahl
+
+
 
 ## Bereiche
 
@@ -17,11 +21,5 @@ title: "DAT €uropa-Code® Fahrzeugauswahl"
 
 - [allgemeines-1793](allgemeines-1793.md)
 - [anderungsnachw-1794](anderungsnachw-1794.md)
-- [aufbau-einer-f-1881](aufbau-einer-f-1881.md)
-- [fahrzeugauswah-1903](fahrzeugauswah-1903.md)
-- [fahrzeugbilder-2026](fahrzeugbilder-2026.md)
-- [fahrzeugidenti-1994](fahrzeugidenti-1994.md)
 - [klassifizieren-1820](klassifizieren-1820.md)
-- [konvertierungs-2032](konvertierungs-2032.md)
-- [oberflachen-sc-1845](oberflachen-sc-1845.md)
 - [verwendung-mit-1842](verwendung-mit-1842.md)

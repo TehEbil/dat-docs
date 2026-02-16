@@ -1,8 +1,12 @@
 ---
 title: "Data Entry Tool (DET) - Schnittstelle zum Datenabruf"
+topic_id: "16609"
+breadcrumb: "Data Entry Tool (DET) - Schnittstelle zum Datenabruf > Data Entry Tool (DET) - Schnittstelle zum Datenabruf"
 ---
 
 # Data Entry Tool (DET) - Schnittstelle zum Datenabruf
+
+
 
 ## Bereiche
 
@@ -14,10 +18,6 @@ title: "Data Entry Tool (DET) - Schnittstelle zum Datenabruf"
 ## Topics
 
 - [anderungsnachw-16430](anderungsnachw-16430.md)
-- [anmeldung-22636](anmeldung-22636.md)
-- [datenbezug-15768](datenbezug-15768.md)
 - [definitionen-15756](definitionen-15756.md)
-- [funktionsrefer-15759](funktionsrefer-15759.md)
-- [merkmalskatalo-16872](merkmalskatalo-16872.md)
 - [ubersicht-15757](ubersicht-15757.md)
 - [workflow-15758](workflow-15758.md)

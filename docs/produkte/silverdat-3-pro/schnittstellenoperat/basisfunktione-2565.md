@@ -7,7 +7,7 @@ breadcrumb: "SilverDAT Produkte > SilverDAT 3 PRO > Schnittstellenoperationen > 
 # Basisfunktionen
 
 Als Grundfunktionalität von SilverDAT 3 PRO stehen Ihnen die Funktionen von SilverDAT myClaim zur Verfügung. Eine ausführliche Beschreibung der Basisfunktionen finden Sie im Kapitel
-[SilverDAT myClaim](../../silverdat3-myc-1528.md).
+[SilverDAT myClaim](../../silverdat3-myclaim/index.md).
 
 Übersicht relevanter Basisfunktionen und deren Verwendbarkeit
 

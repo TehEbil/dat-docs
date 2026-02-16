@@ -20,7 +20,7 @@ Parameter
 | extPartNo | String | [Definition ETN und DVN](../definition-etn-2516.md) | Die Teilekennung kann 1 - N mal übergeben werden. | X |
 | coverage | String | COMPLETE / BASE / SIMPLE | SIMPLE liefert nur die Schlüssel von Modellinformationen (Fahrzeugart, Hersteller, Haupttyp, Untertyp)  BASE / COMPLETE liefert Schlüssel und Benennungen der Modellinformationen. | X |
 
-Außerdem wird ein Cookie benötigt, dass die SessionID übergibt. Weitere Informationen entnehmen Sie bitte dem Kapitel "[Authentifizierung über die neuen SilverDAT Webservices](../../../allgemein/dat-developers-guide/authentifizier-1294.md)".
+Außerdem wird ein Cookie benötigt, dass die SessionID übergibt. Weitere Informationen entnehmen Sie bitte dem Kapitel "[Authentifizierung über die neuen SilverDAT Webservices](../../../allgemein/dat-developers-guide/authentifizierung-de/index.md)".
 
 Rückgabe
 

@@ -1,8 +1,12 @@
 ---
 title: "Datenbezug"
+topic_id: "15768"
+breadcrumb: "Data Entry Tool (DET) - Schnittstelle zum Datenabruf > Data Entry Tool (DET) - Schnittstelle zum Datenabruf > Datenbezug"
 ---
 
 # Datenbezug
+
+
 
 - [auenfarben-15774](auenfarben-15774.md)
 - [ausstattungspo-15772](ausstattungspo-15772.md)

@@ -1,8 +1,12 @@
 ---
 title: "Fahrzeugbewertung"
+topic_id: "25993"
+breadcrumb: "Technische Informationen > Ausgabe Nr. 95 Februar 2026 > Fahrzeugbewertung"
 ---
 
 # Fahrzeugbewertung
+
+
 
 - [anderung-einer-32048](anderung-einer-32048.md)
 - [erweiterungen-25992](erweiterungen-25992.md)

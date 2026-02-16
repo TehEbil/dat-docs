@@ -24,11 +24,11 @@ Informationen für interessierte Leser
 Diese Dokumentation macht Sie vom interessierten zum wissenden Leser. Beginnen Sie
 am besten mit
 
-- [Technische Informationen](grundlagenwiss-2078.md) ff.
+- [Technische Informationen](grundlagenwissen/index.md) ff.
 
 Vertiefen Sie Ihr erworbenes Wissen mit
 
-- [Methodenüberblick](methodenuberbl-2080.md) ff.
+- [Methodenüberblick](methodenuberblick/index.md) ff.
 
 Nun können Sie dem Ganzen eine nach Ihren Wünschen geordnete Struktur geben. Gehen
 Sie z.B. zu den Seiten, die Ihnen die Schnittstellenfunktionen dieses Webservices

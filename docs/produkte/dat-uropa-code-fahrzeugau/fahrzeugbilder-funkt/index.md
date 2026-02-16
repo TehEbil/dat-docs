@@ -1,8 +1,12 @@
 ---
 title: "Fahrzeugbilder Funktionen"
+topic_id: "2026"
+breadcrumb: "SilverDAT Produkte > DAT €uropa-Code® Fahrzeugauswahl > Fahrzeugbilder Funktionen"
 ---
 
 # Fahrzeugbilder Funktionen
+
+
 
 - [getvehicleimag-6805](getvehicleimag-6805.md)
 - [getvehiclerimi-7523](getvehiclerimi-7523.md)

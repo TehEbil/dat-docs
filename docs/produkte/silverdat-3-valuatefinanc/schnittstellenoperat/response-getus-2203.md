@@ -6,7 +6,7 @@ breadcrumb: "SilverDAT Produkte > SilverDAT 3 valuateFinance > Schnittstellenope
 
 # Response getUsedVehicleForecast
 
-Eine Beschreibung aller Response-Parameter finden Sie unter [Datenaustauschformat VXS](../../../vxs/aktenzeichenvo-1369.md).
+Eine Beschreibung aller Response-Parameter finden Sie unter [Datenaustauschformat VXS](../../../vxs/aktenzeichenvorgange-doss/index.md).
 
 ```
 <!-- Sample response, if request was successful -->
