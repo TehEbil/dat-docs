@@ -1,8 +1,8 @@
 ---
-title: "genereller-aufbau"
+title: "Genereller Aufbau"
 ---
 
-# genereller-aufbau
+# Genereller Aufbau
 
 - [uberschreiben-2924](uberschreiben-2924.md)
 - [verwendete-dat-2923](verwendete-dat-2923.md)

@@ -1,8 +1,8 @@
 ---
-title: "wertelisten"
+title: "Wertelisten"
 ---
 
-# wertelisten
+# Wertelisten
 
 - [abwertungsart-1390](abwertungsart-1390.md)
 - [anrede-title-1358](anrede-title-1358.md)

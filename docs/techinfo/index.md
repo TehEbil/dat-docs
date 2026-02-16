@@ -6,10 +6,10 @@ title: "Technische Informationen"
 
 ## Bereiche
 
-- [ausgabe-nr-92-augu](ausgabe-nr-92-augu/index.md) (14 Topics)
-- [ausgabe-nr-93-sept](ausgabe-nr-93-sept/index.md) (16 Topics)
-- [ausgabe-nr-94-deze](ausgabe-nr-94-deze/index.md) (20 Topics)
-- [ausgabe-nr-95-febr](ausgabe-nr-95-febr/index.md) (26 Topics)
+- [Ausgabe Nr. 92 August 2025](ausgabe-nr-92-august-2025/index.md) (14 Topics)
+- [Ausgabe Nr. 93 September 2025](ausgabe-nr-93-september-2/index.md) (16 Topics)
+- [Ausgabe Nr. 94 Dezember 2025](ausgabe-nr-94-dezember-20/index.md) (20 Topics)
+- [Ausgabe Nr. 95 Februar 2026](ausgabe-nr-95-februar-202/index.md) (26 Topics)
 
 ## Topics
 

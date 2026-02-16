@@ -6,7 +6,7 @@ title: "Datenlieferungen"
 
 ## Bereiche
 
-- [satzbeschreibung-d](satzbeschreibung-d/index.md) (40 Topics)
+- [Satzbeschreibung DAT €uropa-Code](satzbeschreibung-dat-urop/index.md) (40 Topics)
 
 ## Topics
 

@@ -54,7 +54,7 @@ Bitte beachten Sie den Umzug unserer Schnittstellenfunktionen getExistingEquipme
 getExistingEquipmentN und getEquipmentFromManufacturerCodeN vom ConversionFunctionsService
 in den VehicleSelectionService.
 
-Weitere Details finden Sie in Technische Information Nr. 94 unter [Umzug von Funktionen](../techinfo/ausgabe-nr-94-deze/umzug-von-funk-31561.md).
+Weitere Details finden Sie in Technische Information Nr. 94 unter [Umzug von Funktionen](../techinfo/ausgabe-nr-94-dezember-20/fahrzeugidentifikati/umzug-von-funk-31561.md).
 
 Für die Nutzung unserer VIN-Abfrage sprechen Sie bitte über den VIN-Lizenzvertrag
 mit dem DAT-Vertrieb: [sales-support@dat.de](mailto:sales-support@dat.de "Mail an DAT Sales Support") oder [vertrieb@dat.de](mailto:vertrieb@dat.de "Mail an DAT Vertrieb").

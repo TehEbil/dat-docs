@@ -1,0 +1,9 @@
+---
+title: "zusaetzliche Parameter changeDossierN Bewertung von Elektroautos"
+topic_id: "21868"
+breadcrumb: "SilverDAT Produkte > SilverDAT 3 valuateFinance > Schnittstellenoperationen > Fahrzeugbewertung von Elektroautos > Fahrzeugbewertung von Elektroautos > Aendern eines Vorgangs mit EV-Wertkorrektur > zusaetzliche Parameter changeDossierN Bewertung von Elektroautos"
+---
+
+# zusaetzliche Parameter changeDossierN Bewertung von Elektroautos
+
+###### zusaetzliche Parameter changeDossierN Bewertung von Elektroautos Grundsätzlich gibt es beim Ändern der Bewertung von Elektroautos die gleichen Eingabemöglichkeiten, wie beim normalen [Ändern eines Vorgangs](../../allgemeine-services/verwalten-von-vorgan/aendern-eines-14989.md). Zusätzlich können zur EV-Wertkorrektur folgende Parameter übergeben werden: Element vxs:Condition | Parameter | Datentyp | Beschreibung | Schreibweise | Pflicht | | --- | --- | --- | --- | --- | | vxs:BatteryCorr | Decimal | Wertkorrektur der Traktionsbatterie (Netto) Wenn BatteryCorr und BatteryCorrGross angegeben wurden, wird BatteryCorr in der Bewertung berücksichtigt. Nicht möglich für Fahrzeuge mit DatEquipmentId=76 | | | | vxs:BatteryCorrGross | Decimal | Wertkorrektur der Traktionsbatterie (Brutto) Wenn BatteryCorr und BatteryCorrGross angegeben wurden, wird BatteryCorr in der Bewertung berücksichtigt. Nicht möglich für Fahrzeuge mit DatEquipmentId=76 | | | | vxs:BatteryStateOfHealth | Decimal | Ist - State of Health der Batterie | | | | vxs:IdentificationProcedureStateOfHealth | Wert | | --- | | AUTEL | | Aviloo Flash Test | | Aviloo Premium Test | | AVL DiTest | | Battery Quick Check | | BOSCH Esitronic Evolution | | BOSCH UC2Go | | DEKRA | | Hella Gutmann Basic | | Herstellerdiagnosesystem | | MAHLE (BatteryPRO) | | moba (la belle battery) | | PKC | | String | Identifikationsverfahren des Ist - State of Health nur möglich, wenn BatteryStateOfHealth gesetzt wurde | | |

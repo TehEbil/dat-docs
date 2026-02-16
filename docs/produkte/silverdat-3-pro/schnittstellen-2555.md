@@ -9,15 +9,15 @@ breadcrumb: "SilverDAT Produkte > SilverDAT 3 PRO > Schnittstellenoperationen"
 SilverDAT 3 PRO stellt Fremdsystemen verschiedene SOAP Webservices zur Verfügung.
 Folgende Webservices werden in diesem Kapitel näher beschrieben:
 
-1. [Authentifizierung](authentifizier-2652.md)
-2. [Fahrzeugidentifikation](fahrzeugidenti-2653.md)
-3. [Fahrzeugauswahl](fahrzeugauswah-2559.md)
-4. [Konvertierungsoperationen](konvertierungs-2561.md)
-5. [Fahrzeugbilder](fahrzeugbilder-2563.md)
-6. [Basisfunktionen](basisfunktione-2565.md)
-7. [Bewertung](bewertung-2619.md)
-8. [Kalkulation](kalkulation-2640.md)
-9. [PartsService](partsservice-22540.md)
+1. [Authentifizierung](schnittstellenoperat/authentifizier-2652.md)
+2. [Fahrzeugidentifikation](schnittstellenoperat/fahrzeugidenti-2653.md)
+3. [Fahrzeugauswahl](schnittstellenoperat/fahrzeugauswah-2559.md)
+4. [Konvertierungsoperationen](schnittstellenoperat/konvertierungs-2561.md)
+5. [Fahrzeugbilder](schnittstellenoperat/fahrzeugbilder-2563.md)
+6. [Basisfunktionen](schnittstellenoperat/basisfunktione-2565.md)
+7. [Bewertung](schnittstellenoperat/bewertung-2619.md)
+8. [Kalkulation](schnittstellenoperat/kalkulation-2640.md)
+9. [PartsService](schnittstellenoperat/partsservice-22540.md)
 
 Die allgemeinen Schnittstellen-Funktionen der SilverDAT 3 PRO rufen Sie über die nachfolgenden URL's auf:
 

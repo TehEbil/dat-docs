@@ -6,7 +6,7 @@ title: "Allgemeine Informationen"
 
 ## Bereiche
 
-- [dat-developers-gui](dat-developers-gui/index.md) (58 Topics)
+- [DAT Developers Guide](dat-developers-guide/index.md) (58 Topics)
 
 ## Topics
 

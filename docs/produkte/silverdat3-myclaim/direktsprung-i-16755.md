@@ -38,7 +38,7 @@ URL zur Übergabe benötigt.
 
 1. fabrikat: Das Netz in dem der Vorgang sich befindet (Optional)- ist identisch mit dem networkType
 2. token: Authentifizierungstoken (Wie Sie einen Token generieren entnehmen Sie bitte im Kapitel
-   [JSON Web Token Authentication](../../allgemein/dat-developers-gui/json-web-token-14087.md)
+   [JSON Web Token Authentication](../../allgemein/dat-developers-guide/authentifizierung-de/json-web-token-14087.md)
 3. claim: Die ID des zu öffnenden Vorgangs
 4. subView: Der Bewertungsprozess über der jeweiligen Maske.
 5. subViewMode: Die Hauptmaske des jeweiligen Bewertungsprozesses.
